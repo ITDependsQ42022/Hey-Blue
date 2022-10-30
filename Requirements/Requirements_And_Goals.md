@@ -27,6 +27,7 @@ To provide a cost effective platform which helps the civilians connect with poli
  9. Officers locations shuts off after 15 minutes
  10. community members to be able to see how many connections each participating officer has made
  11. Allow Hey, Blue! to track all participation by zi cde. 
+ 12. When registering civilians, Link phone numbers to email address so multiple devices are not registered
 
 ### Civilian Process
 
@@ -68,3 +69,6 @@ To provide a cost effective platform which helps the civilians connect with poli
 <todo>
 
 ## Constraints
+1. Should be cost effecient
+2. Only one connection per user for 24hrs. 
+3. Police officers can have multiple connections?
