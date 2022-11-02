@@ -6,7 +6,7 @@
 
 ## Goal
 
-To provide a cost effective platform which helps the civilians connect with police officers for a positive interaction experience at a scale in a secure way. This platform can be hosted on both web and mobile based. 
+To provide a cost effective platform which helps civilians connect with police officers for a positive interaction experience at scale in a secure way. This platform must be available on both web and mobile. 
 
 ## Actors
 - Citiens
@@ -17,17 +17,17 @@ To provide a cost effective platform which helps the civilians connect with poli
 ## Functional Requirements
 
 ### Hard Requirements 
- 1. End-Use Ease of use (HR1)
- 2. Location Tracking (HR2)
- 3. Connecting with other users (HR3)
- 4. Uploading to social media (HR4)
+ 1. End-Use Ease of use
+ 2. Location Tracking
+ 3. Connecting with other users
+ 4. Uploading to social media
  5. Tracking engagements
  6. Ability to opt in to and out of push Notifications
- 7. Users can only have one connection per officer per 24hour period
+ 7. Civilians can only have one connection per officer per 24hour period
  8. Community members can find officers and not the other way around
  9. Officers locations shuts off after 15 minutes
  10. community members to be able to see how many connections each participating officer has made
- 11. Allow Hey, Blue! to track all participation by zi cde. 
+ 11. Allow Hey, Blue! to track all participation by zip code. 
 
 ### Civilian Process
 
