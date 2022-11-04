@@ -17,12 +17,12 @@ The goal of this application is to provide a cost effective platform that helps 
 
 ## Considered Options
 
-* Opt for Open Source Technologies
-* Opt for packaged software.
+* Opt for Open Source Standards and Technologies
+* Select best-of-breed packaged software
 
 ## Decision Outcome
 
-Chosen option: "Opt for Open Source Technologies, because we are developing a Charity Application where the costs should be kept as low as possible. Saving cost is our critical criteria.
+Chosen option: "Opt for Open Source Technologies, because we are architecting a system for a non-profit  where the costs should be kept as low as possible. Affordability is a fundamental architectural characteristic.
 
 ## Consequences
 As open source quality, evolution and support relies on the level of engagement and vibrancy of the community that surrounds them, we must ensure to take this into account with every choice we make.
@@ -37,7 +37,7 @@ As open source quality, evolution and support relies on the level of engagement 
 * Good, because it offers cost savings
 * Bad, because of the security treats.
 
-### Opt for packaged software.
+### Select best-of-breed packaged software
 
 * Good, because it offers higher service level for support with paid contracts when issues arise.
 * Bad, because of higher cost.
