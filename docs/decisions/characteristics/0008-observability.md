@@ -4,77 +4,65 @@ deciders: Kavya, Susmitha, Uma, Miguel, Shari
 
 # Observability as a Core Architectural Characteristic
 
+Observability is the degree to which you can measure a system's internal state based on it's operational outputs.
+
+Generally Observability is seen as havig three pillars of signal, Logs, Metrics and Traces, as well as having Context to correlate between them. In Hey Blue! we will also include persisted Events under the umbrella of Observability
+
 ## Context and Problem Statement
 
 Hey Blue! Requirements and discussion with the founder made it evident that usage of the system and also interaction related data must be available for analysis and reporting. This includes data services that may feed into AI/ML. For this reason, Hey Blue! must have good Observability with correlation across the typical three pillars (Logging, Metrics and Tracing) as well as the often overlooked Events.
 
-<!-- This is an optional element. Feel free to remove. -->
-
 ## Decision Drivers
 
-- {decision driver 1, e.g., a force, facing concern, …}
-- {decision driver 2, e.g., a force, facing concern, …}
-- … <!-- numbers of drivers can vary -->
+From requirements and kickoff:
 
-## Considered Options
+- Back-end processing, reporting and analytics that tracks site activity and interactions
+- Analytics that aggregates Hey Blue! operational data with other public data to build resports to illustrate impact of Hey Blue! in the community
+- Tracking engagement - **hard requirement**.
+- A way to track how points are used for each member (Civilian, Officer, Business, Municipality)
+- Civilians members must be able to see how many connections each Officer has made - **hard requirement**
+- Track all participation by Zip Code - **hard requirement**
+- Data must be available to drive ML/AI
 
-- {title of option 1}
-- {title of option 2}
-- {title of option 3}
-- … <!-- numbers of options can vary -->
+Related to other Architectural Characteristis:
+
+- Fitness functions of Security requires good Observability
+- Fitness functions of Affordability requirees good Observability
+- Fitness functions of Usability requires good Observability
+- Fitness functions of Elasticity requires good Observability
+- Fitness functions of Evolvability requires good Observability (determining afferent and efferent coupling is both static and dymanic, i.e. fed by operational data, this can be derived from Tracing)
+
+Related to Architectural Style:
+
+- Architectural styles with the following characteristics become more difficult to understand (regarding flow), to analyse, to debug and support. If a style is selected that falls into one of these categories, then good observability with cohesive single-pane-of-glass dashboards and good downstream automation helps to alleviate this.
+  -- Highly distributed systems
+  -- High degree of Architectural Quanta
+  -- High level of Abstractness
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because
-{justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
-
-<!-- This is an optional element. Feel free to remove. -->
+Because of the documented problem statement and drivers, Observability is a core characteristic of Hey Blue!
 
 ### Consequences
 
-- Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
-- Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
-- … <!-- numbers of consequences can vary -->
+- Platform, tool and technology selection must take ease of implementation for Observability into account (including taking into account existing probes, auto-instrumentation and the need for manual instrumentation)
+- Truly cross-functional teams must be formed so that analytics dashboards built can satisfy the needs of development, operations, support, product and management.
+- To satisfy all the needs of Observability in Hey Blue!, delivery teams must have a broad skillset including usability/user experience, performance and health testing/monitoring, product management, systems level thinking, data analytics and visualization.
 
-<!-- This is an optional element. Feel free to remove. -->
+## Fitness Functions
 
-## Validation
-
-{describe how the implementation of/compliance with the ADR is validated. E.g., by a review or an ArchUnit test}
-
-<!-- This is an optional element. Feel free to remove. -->
+- For requirements driven drivers, automated functional tests tha verify logs/merics/traces are captures as expected for given use cases
+- For associated architectural characteristics drivers, capability to write and automate the required fitness functions serves as verification
+- Related to the elemeents noted under architectural styles, the trend of SRE/Incident metrics such as the following can serve as a proxy
+  -- Mean time to Detect
+  -- Mean time to Acknowledge
+  -- Mean time to Analysis (includes Triage/Isolate/Diagnose)
+- If an ideal stat of Observability drivng high value insights and downstream automation is achieved (potentially including AIOps and achieving autonomic/self-healing systems), then Mean Time to Repair/Resolve/Recover may even be considered as proxies in some scenarios
 
 ## Pros and Cons of the Options
 
-### {title of option 1}
-
-<!-- This is an optional element. Feel free to remove. -->
-
-{example | description | pointer to more information | …}
-
-- Good, because {argument a}
-- Good, because {argument b}
-<!-- use "neutral" if the given argument weights neither for good nor bad -->
-- Neutral, because {argument c}
-- Bad, because {argument d}
-- … <!-- numbers of pros and cons can vary -->
-
-### {title of other option}
-
-{example | description | pointer to more information | …}
-
-- Good, because {argument a}
-- Good, because {argument b}
-- Neutral, because {argument c}
-- Bad, because {argument d}
-- …
-
-<!-- This is an optional element. Feel free to remove. -->
-
-## More Information
-
-{You might want to provide additional evidence/confidence for the decision outcome here and/or
-document the team agreement on the decision and/or
-define when this decision when and how the decision should be realized and if/when it should be re-visited and/or
-how the decision is validated.
-Links to other decisions and resources might here appear as well.}
+- Good, because good Observability enables so many other business and technical scenarios.
+- Good, because it reduces risk in Architectural Styles with particular types of weakness.
+- Good, because Observability and it's application is a hot topic and can help attract talent.
+- Bad, because requires broad levels of understanding that may be difficul to find
+- Bad, because areas that don't already offer probes or auto-instrumentation will require more development effort to enable.
