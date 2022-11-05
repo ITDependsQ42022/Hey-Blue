@@ -4,6 +4,8 @@ deciders: Kavya, Susmitha, Uma, Miguel, Shari
 
 # Availability as a Core Architectural Characteristic
 
+Availability is a measure of the amount of uptime of a system; This is usually measured in 9's (e.g., 99.9%)
+
 ## Context and Problem Statement
 
 Much of Hey Blue! usage will be occasional. If the system is not available when the community tries to interact, then we will lose users. For this reason, availability is a core characteristic.
@@ -16,63 +18,24 @@ Much of Hey Blue! usage will be occasional. If the system is not available when 
 
 ## Considered Options
 
-- {title of option 1}
-- {title of option 2}
-- {title of option 3}
-- … <!-- numbers of options can vary -->
+- Repeat engagement from interaction through redemption is required by business model
+- Occassional, non-continuous use by members
+- System non-availability for occasional use by member translates to high degree of unavailability perception, leading to dropped engagement
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because
-{justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
-
-<!-- This is an optional element. Feel free to remove. -->
+Because of the documented problem statement and drivers, Availability is a core characteristic of Hey Blue!
 
 ### Consequences
 
-- Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
-- Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
-- … <!-- numbers of consequences can vary -->
-
-<!-- This is an optional element. Feel free to remove. -->
+- Decision of Architectural Style must take into account Availability
+- Other structural and deployment decisions must take into account Availability
 
 ## Validation
 
-{describe how the implementation of/compliance with the ADR is validated. E.g., by a review or an ArchUnit test}
-
-<!-- This is an optional element. Feel free to remove. -->
+Chaos engineering/fault injection experiments will be run regularly to verify availability in core scenarios
 
 ## Pros and Cons of the Options
 
-### {title of option 1}
-
-<!-- This is an optional element. Feel free to remove. -->
-
-{example | description | pointer to more information | …}
-
-- Good, because {argument a}
-- Good, because {argument b}
-<!-- use "neutral" if the given argument weights neither for good nor bad -->
-- Neutral, because {argument c}
-- Bad, because {argument d}
-- … <!-- numbers of pros and cons can vary -->
-
-### {title of other option}
-
-{example | description | pointer to more information | …}
-
-- Good, because {argument a}
-- Good, because {argument b}
-- Neutral, because {argument c}
-- Bad, because {argument d}
-- …
-
-<!-- This is an optional element. Feel free to remove. -->
-
-## More Information
-
-{You might want to provide additional evidence/confidence for the decision outcome here and/or
-document the team agreement on the decision and/or
-define when this decision when and how the decision should be realized and if/when it should be re-visited and/or
-how the decision is validated.
-Links to other decisions and resources might here appear as well.}
+- Good, because an available system will feed into the core characteristic of usability.
+- Potentially bad, because (depending on oher decision) availability may be complex and costly to achieve, which is in opposition to the core characteristic of Affordability
