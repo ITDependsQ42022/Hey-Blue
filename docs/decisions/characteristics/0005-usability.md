@@ -32,7 +32,7 @@ Because of the documented problem statement and drivers, usability is a core cha
 - User appreciation of intrinsic rewards should be observable
 - User engagement must be observable at all levels and throughout the member journey. Some of the types of metrics that must be collected include but are not limite to:
   -- Membership Growth/Reduction
-  -- Frequency and Length of Locaation Enablement
+  -- Frequency and Length of Location Enablement
   -- Activities per Session (can be search, browse shop/charity, interaction, social media, etc.)
   -- Top Activity Exits - i.e. completion and if not what screens do members leave an activity on
   -- Time Spent per Activity

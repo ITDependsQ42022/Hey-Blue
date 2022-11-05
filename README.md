@@ -31,7 +31,7 @@ This characteristic is related to that of affordability, but it also stands on i
 </details>
 <details>
   <summary>
-    Extensibility/Interoperability
+    Evolvability
   </summary>
 There are some core use cases documented in the Requirements that the system must support.  However there are also discussions of potential for the future.  This includes things like:
 *  Concection to Municipalities to support redemption of points for things like fine reduction

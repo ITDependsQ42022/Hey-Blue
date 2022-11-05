@@ -6,31 +6,24 @@ deciders: Kavya, Susmitha, Uma, Miguel, Shari
 
 ## Context and Problem Statement
 
-Hey Blue! is a non-profit organization and does not have a large budget. As such it is imperative to keep costs down.
+Hey Blue! is a non-profit organization and does not have a large budget. As such it is imperative to keep costs low.
 
 ## Decision Drivers
 
-- {decision driver 1, e.g., a force, facing concern, …}
-- {decision driver 2, e.g., a force, facing concern, …}
-- … <!-- numbers of drivers can vary -->
-
-## Considered Options
-
-- {title of option 1}
-- {title of option 2}
-- {title of option 3}
-- … <!-- numbers of options can vary -->
+- Hey Blue! is a non-profit
+- Business model relies on a long tail of continued engagement by all members (Civilian, Officer, Business and Charity)
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because
-{justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
-
-<!-- This is an optional element. Feel free to remove. -->
+Because of the documented problem statement and drivers, affordability is a core characteristic of Hey Blue!
 
 ### Consequences
 
-- Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
+- Cost to build the platform must be considered. This includes:
+  -- Considering buy vs build, i.e.
+- Cost of operations of the platform must be considered. This includes:
+  -- Infrastructure operational cost
+  -- People cost to run operations
 - Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
 - … <!-- numbers of consequences can vary -->
 
