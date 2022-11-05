@@ -4,9 +4,11 @@ deciders: Kavya, Susmitha, Uma, Miguel, Shari
 
 # Usability as a Core Architectural Characteristic
 
+Usability in our case is not only about user experience, such as simplicity of use. It is also about creating a desire within the members to want to use the system to it's full extent.
+
 ## Context and Problem Statement
 
-As called out in the requirements, the Civilian and Officer experience is paramount for Hey Blue! We need to ensure we convey the value of engaging with Hey Blue!, including turning on Location Services. Hey Blue! is nothing without engagement, and Usability feeds into improving engagement. In this case Usability is not only about user experience, such as simplicity of use. It is also about creating a desire within the members to want to use the system to it's full extens. Members must engage fully through repeated redemption repeatedly for Hey Blue!'s initial business model to show value.
+As called out in the requirements, the Civilian and Officer experience is paramount for Hey Blue! We need to ensure we convey the value of engaging with Hey Blue!, including turning on Location Services. Hey Blue! is nothing without engagement, and Usability feeds into improving engagement. Members must engage fully through repeated redemption repeatedly for Hey Blue!'s initial business model to show value.
 
 ## Decision Drivers
 

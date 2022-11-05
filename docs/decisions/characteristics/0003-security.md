@@ -4,13 +4,16 @@ deciders: Kavya, Susmitha, Uma, Miguel, Shari
 
 # Security as a Core Architectural Characteristic
 
+Security is the degree to which a system restricts access to sensitive information or
+functionality.
+
 ## Context and Problem Statement
 
 To be successful Hey Blue! must be able to maintain trust with their Civilian and Officer community members. For Officers the drivers are privacy and safety (in particular as it relates to live location data). For Civilians the drivers are privacy, safety and data ownership.
 
 ## Decision Drivers
 
-- Trust - While not called out explicitly in requirements, it is necessary to have ongoing engagement. The trust is built on keeping data secure (encryted), controlling access
+- Trust - While not called out explicitly in requirements, it is necessary to have ongoing engagement. The trust is built on keeping data secure (encryted) and controlling access both by members and within the system
 - Regulatory - The system must conform to all required regulatory standards, such as GDPR.
 
 The following decision drivers are directly derived from the requirements and kickoff artefacts from Hey Blue!
