@@ -19,53 +19,24 @@ Because of the documented problem statement and drivers, affordability is a core
 
 ### Consequences
 
-- Cost to build the platform must be considered. This includes:
-  -- Considering buy vs build, i.e.
-- Cost of operations of the platform must be considered. This includes:
-  -- Infrastructure operational cost
-  -- People cost to run operations
-- Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
-- … <!-- numbers of consequences can vary -->
+Cost to build, operate and support the system must be considered carefully with analysis performed to validate.
 
-<!-- This is an optional element. Feel free to remove. -->
+#### Build
 
-## Validation
+- Buy vs. Build
+  -- Packaged software licensing costs
+  -- Open-source people cost to build
 
-{describe how the implementation of/compliance with the ADR is validated. E.g., by a review or an ArchUnit test}
+#### Operate
 
-<!-- This is an optional element. Feel free to remove. -->
+- Infrastructure operational cost
+- People cost to run operations
 
-## Pros and Cons of the Options
+#### Support
 
-### {title of option 1}
+- Cost of support contracts must be considered
+- On the other hand cost of hiring SMEs must be considered
 
-<!-- This is an optional element. Feel free to remove. -->
+## Fitness Functions
 
-{example | description | pointer to more information | …}
-
-- Good, because {argument a}
-- Good, because {argument b}
-<!-- use "neutral" if the given argument weights neither for good nor bad -->
-- Neutral, because {argument c}
-- Bad, because {argument d}
-- … <!-- numbers of pros and cons can vary -->
-
-### {title of other option}
-
-{example | description | pointer to more information | …}
-
-- Good, because {argument a}
-- Good, because {argument b}
-- Neutral, because {argument c}
-- Bad, because {argument d}
-- …
-
-<!-- This is an optional element. Feel free to remove. -->
-
-## More Information
-
-{You might want to provide additional evidence/confidence for the decision outcome here and/or
-document the team agreement on the decision and/or
-define when this decision when and how the decision should be realized and if/when it should be re-visited and/or
-how the decision is validated.
-Links to other decisions and resources might here appear as well.}
+Fitness functions for affordability depend on Architectural Style decisions. Therefore documenting these are deferred to and will be included in that decision
