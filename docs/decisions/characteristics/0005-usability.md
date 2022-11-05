@@ -6,73 +6,41 @@ deciders: Kavya, Susmitha, Uma, Miguel, Shari
 
 ## Context and Problem Statement
 
-As called out in the requirements, the Civilian and Officer experience is paramount for Hey Blue! We need to ensure we convey the value of engaging with Hey Blue!, including turning on Location Services.
+As called out in the requirements, the Civilian and Officer experience is paramount for Hey Blue! We need to ensure we convey the value of engaging with Hey Blue!, including turning on Location Services. Hey Blue! is nothing without engagement, and Usability feeds into improving engagement. In this case Usability is not only about user experience, such as simplicity of use. It is also about creating a desire within the members to want to use the system to it's full extens. Members must engage fully through repeated redemption repeatedly for Hey Blue!'s initial business model to show value.
 
 ## Decision Drivers
 
-- {decision driver 1, e.g., a force, facing concern, …}
-- {decision driver 2, e.g., a force, facing concern, …}
-- … <!-- numbers of drivers can vary -->
+- Repeat engagement from interaction through redemption is required by business model
+- Usability directly feeds engagement
 
-## Considered Options
+The following decision drivers are directly derived from the requirements and kickoff artefacts from Hey Blue!
 
-- {title of option 1}
-- {title of option 2}
-- {title of option 3}
-- … <!-- numbers of options can vary -->
+- Incentivization of interaction
+- Ease of use is a hard requirement
+- Tracking engagement is a hard requirement
+- The app should encourage members to redeem or donate points
+- An intrinsic reward system is a hard requirement
+- The system should offer members maximum value of logging in and turning on location services
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because
-{justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
-
-<!-- This is an optional element. Feel free to remove. -->
+Because of the documented problem statement and drivers, usability is a core characteristic of Hey Blue!
 
 ### Consequences
 
-- Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
-- Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
-- … <!-- numbers of consequences can vary -->
+- The user interface must have good basic responsiveness.
+- User appreciation of intrinsic rewards should be observable
+- User engagement must be observable at all levels and throughout the member journey. Some of the types of metrics that must be collected include but are not limite to:
+  -- Membership Growth/Reduction
+  -- Frequency and Length of Locaation Enablement
+  -- Activities per Session (can be search, browse shop/charity, interaction, social media, etc.)
+  -- Top Activity Exits - i.e. completion and if not what screens do members leave an activity on
+  -- Time Spent per Activity
+  -- Conversion/Abandonment - here this includes both follow through on Interactions and also Redemption/Donation after browsing.
+- Engagement must be analysed and campaigns built off analysis to improve engagement where it doesn't meet evolving goals
 
-<!-- This is an optional element. Feel free to remove. -->
+## Fitness Functions
 
-## Validation
-
-{describe how the implementation of/compliance with the ADR is validated. E.g., by a review or an ArchUnit test}
-
-<!-- This is an optional element. Feel free to remove. -->
-
-## Pros and Cons of the Options
-
-### {title of option 1}
-
-<!-- This is an optional element. Feel free to remove. -->
-
-{example | description | pointer to more information | …}
-
-- Good, because {argument a}
-- Good, because {argument b}
-<!-- use "neutral" if the given argument weights neither for good nor bad -->
-- Neutral, because {argument c}
-- Bad, because {argument d}
-- … <!-- numbers of pros and cons can vary -->
-
-### {title of other option}
-
-{example | description | pointer to more information | …}
-
-- Good, because {argument a}
-- Good, because {argument b}
-- Neutral, because {argument c}
-- Bad, because {argument d}
-- …
-
-<!-- This is an optional element. Feel free to remove. -->
-
-## More Information
-
-{You might want to provide additional evidence/confidence for the decision outcome here and/or
-document the team agreement on the decision and/or
-define when this decision when and how the decision should be realized and if/when it should be re-visited and/or
-how the decision is validated.
-Links to other decisions and resources might here appear as well.}
+- Use Observability Data and automated tests to check general UX responsiveness thresholds. e.g. users are known to drop off if page loads reach 2-3 seconds.
+- Member Engagement monitoring will be built on top of system Observability signals. Fitness functions will be built based on both trends and thresholds. However the specific metrics who's trends will be followed and specific thresholds set must be configurable and dynamic based on current campaigns to increase engagement.
+- Optional in-app surveys and other forms of gathering direct feedback can be used in addition to observability signals to help guide campaigns
