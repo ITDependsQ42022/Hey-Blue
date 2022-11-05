@@ -4,8 +4,7 @@ deciders: Kavya, Susmitha, Uma, Miguel, Shari
 
 # Security as a Core Architectural Characteristic
 
-Security is the degree to which a system restricts access to sensitive information or
-functionality.
+Security is the degree to which a system restricts access to sensitive information or functionality.
 
 ## Context and Problem Statement
 
@@ -69,7 +68,7 @@ Configuration as Code will be used and run through static analysis to ensure onl
 Static analysis will be run against cross-container communication contracts to ensure PII fields are not included.
 This includes Observability Signal egress, which can contain arbitrary data in attributes. In this case static analysis will be run against code to check for instrumentation that writes PII and additionally processors will be run in Telemetry to identify and redact potential PII prior to egress, and also alert on it.
 
-Finally, automated end-to-end system tests will be written covering all core flows beginning with registration. Test PII data used in registration will be checke for after each scenario in logs, metrics, traces, events and other containers stores. Finding the test PII Data outside the compartmentalized store fails the fitness function.
+Finally, automated end-to-end system tests will be written covering all core flows beginning with registration. Test PII data used in registration will be checked for after each scenario in logs, metrics, traces, events and other containers stores. Finding the test PII Data outside the compartmentalized store fails the fitness function.
 
 ### Visibility and Storage of Data
 
