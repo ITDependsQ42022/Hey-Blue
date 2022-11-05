@@ -9,7 +9,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
   <summary>
     Security
   </summary>
-To be successful Hey Blue! must be able to maintain trust with their community of Civilians and Officers.  In this regard we must ensure the system follows Zero Trust principles, encrypts all data in motion and at rest,  applies appropriate rules to the storag, access and flow of Personally Identifiable Information (PII), allows members to control visibility of and revoke their PII, and conforms to all required regulatory standards (such as GDPR).
+To be successful Hey Blue! must be able to maintain trust with their Civilian and Officer community members.  In this regard we must ensure the system follows Zero Trust principles, encrypts all data in motion and at rest, applies appropriate rules to the storage, access and flow of Personally Identifiable Information (PII), allows members to control visibility of and revoke their PII, and conforms to all required regulatory standards (such as GDPR).
 </details>
 <details>
   <summary>
