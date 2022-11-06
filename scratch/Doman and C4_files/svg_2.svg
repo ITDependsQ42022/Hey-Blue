@@ -10,7 +10,7 @@
 		.st4 {font-size:0.799995em}
 		.st5 {marker-end:url(#mrkr13-12);stroke:#444444;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st6 {fill:#444444;fill-opacity:1;stroke:#444444;stroke-opacity:1;stroke-width:0.22935779816514}
-		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st8 {fill:#000000;font-family:Calibri;font-size:0.666664em}
 		.st9 {font-size:0.749991em}
 		.st10 {fill:#114745;stroke:#0d3937;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
@@ -18,7 +18,7 @@
 		.st12 {fill:#000000;font-family:Calibri;font-size:1.00001em}
 		.st13 {fill:#999999;stroke:#8b8b8b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
 		.st14 {font-size:1em}
-		.st15 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st15 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
@@ -96,7 +96,7 @@
 			<title>Relationship.22</title>
 			<desc>Records Points [Event]</desc>
 			<path d="M0 482.74 L-86.07 488.34" class="st5"/>
-			<rect x="-71.9526" y="477.929" width="48.0542" height="15.9999" class="st7"/>
+			<rect x="-71.9526" y="477.929" width="48.0542" height="15.9999" class="st15"/>
 			<text x="-71.95" y="483.93" class="st8">Records Points <tspan x="-56.66" dy="1.333em" class="st9">[Event]</tspan></text>		</g>
 	</g>
 </svg>
