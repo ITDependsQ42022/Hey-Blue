@@ -10,12 +10,12 @@
 		.st4 {font-size:0.799995em}
 		.st5 {marker-end:url(#mrkr13-12);stroke:#444444;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st6 {fill:#444444;fill-opacity:1;stroke:#444444;stroke-opacity:1;stroke-width:0.22935779816514}
-		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st8 {fill:#000000;font-family:Calibri;font-size:0.666664em}
 		.st9 {font-size:0.749991em}
-		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt}
-		.st11 {fill:#999999;stroke:#8b8b8b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
-		.st12 {font-size:1em}
+		.st10 {fill:#999999;stroke:#8b8b8b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st11 {font-size:1em}
+		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st13 {fill:#114745;stroke:#0d3937;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
 		.st14 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st15 {fill:#000000;font-family:Calibri;font-size:1.00001em}
@@ -53,30 +53,30 @@
 			<title>Relationship.11</title>
 			<desc>Initiates [Event]</desc>
 			<path d="M0 697.23 L62.53 693.47" class="st5"/>
-			<rect x="23.0614" y="686.985" width="26.1909" height="15.9999" class="st10"/>
+			<rect x="23.0614" y="686.985" width="26.1909" height="15.9999" class="st7"/>
 			<text x="23.06" y="692.99" class="st8">Initiates <tspan x="27.42" dy="1.333em" class="st9">[Event]</tspan></text>		</g>
 		<g id="shape8-30" transform="translate(273.543,-400.403)">
 			<title>Software System Gray</title>
 			<desc>SocialMedia [Software System] External Social Media Systems</desc>
-			<rect x="0" y="627.732" width="106.299" height="74.4094" class="st11"/>
-			<text x="28.48" y="649.44" class="st2">SocialMedia <tspan x="30.83" dy="1.167em" class="st3">[Software System] </tspan><tspan x="9.54" dy="1.9em" class="st12">External Social Media </tspan><tspan x="36.52" dy="1em" class="st12">Systems</tspan></text>		</g>
+			<rect x="0" y="627.732" width="106.299" height="74.4094" class="st10"/>
+			<text x="28.48" y="649.44" class="st2">SocialMedia <tspan x="30.83" dy="1.167em" class="st3">[Software System] </tspan><tspan x="9.54" dy="1.9em" class="st11">External Social Media </tspan><tspan x="36.52" dy="1em" class="st11">Systems</tspan></text>		</g>
 		<g id="shape9-36" transform="translate(166.892,-450.333)">
 			<title>Relationship.9</title>
 			<desc>Confirm Add/View/Update</desc>
 			<path d="M0 706.4 L96.86 711.53" class="st5"/>
-			<rect x="9.69559" y="705.159" width="87.2726" height="7.99997" class="st7"/>
+			<rect x="9.69559" y="705.159" width="87.2726" height="7.99997" class="st12"/>
 			<text x="9.7" y="711.16" class="st8">Confirm Add/View/Update</text>		</g>
 		<g id="shape10-43" transform="translate(454.516,-450.332)">
 			<title>Relationship.10</title>
 			<desc>Views/Likes</desc>
 			<path d="M0 706.9 L-64.88 710.94" class="st5"/>
-			<rect x="-56.4525" y="705.299" width="38.2376" height="7.99997" class="st10"/>
+			<rect x="-56.4525" y="705.299" width="38.2376" height="7.99997" class="st12"/>
 			<text x="-56.45" y="711.3" class="st8">Views/Likes</text>		</g>
 		<g id="shape11-50" transform="translate(258.555,-337.982)">
 			<title>Relationship.11</title>
 			<desc>Publish Workflow [Https]</desc>
 			<path d="M0 702.14 L-83.53 638.03" class="st5"/>
-			<rect x="-74.3637" y="659.152" width="57.3278" height="15.9999" class="st10"/>
+			<rect x="-74.3637" y="659.152" width="57.3278" height="15.9999" class="st12"/>
 			<text x="-74.36" y="665.15" class="st8">Publish Workflow <tspan x="-54.17" dy="1.333em" class="st9">[Https]</tspan></text>		</g>
 		<g id="shape12-58" transform="translate(156.614,-118.488)">
 			<title>Software System.12</title>
@@ -87,7 +87,7 @@
 			<title>Relationship.14</title>
 			<desc>Generates [Event]</desc>
 			<path d="M0 702.14 L32.86 663.68" class="st5"/>
-			<rect x="2.75498" y="671.135" width="33.6206" height="15.9999" class="st7"/>
+			<rect x="2.75498" y="671.135" width="33.6206" height="15.9999" class="st12"/>
 			<text x="2.75" y="677.13" class="st8">Generates <tspan x="10.83" dy="1.333em" class="st9">[Event]</tspan></text>		</g>
 		<g id="shape15-73" transform="translate(355.039,-118.488)">
 			<title>Software System.15</title>
@@ -98,28 +98,28 @@
 			<title>Relationship.16</title>
 			<desc>Generates [Event]</desc>
 			<path d="M0 702.14 L-22.38 669.2" class="st5"/>
-			<rect x="-30.8171" y="673.651" width="33.6206" height="15.9999" class="st10"/>
+			<rect x="-30.8171" y="673.651" width="33.6206" height="15.9999" class="st12"/>
 			<text x="-30.82" y="679.65" class="st8">Generates <tspan x="-22.74" dy="1.333em" class="st9">[Event]</tspan></text>		</g>
 		<g id="shape17-88" transform="translate(450.709,-238.819)">
 			<title>Software System Gray.17</title>
 			<desc>Media Outlets [Software System] Organized Media such as News,...</desc>
-			<rect x="0" y="627.732" width="106.299" height="74.4094" class="st11"/>
-			<text x="24.21" y="649.44" class="st2">Media Outlets <tspan x="30.83" dy="1.167em" class="st3">[Software System] </tspan><tspan x="7.97" dy="1.9em" class="st12">Organized Media such </tspan><tspan x="14.58" dy="1em" class="st12">as News, Blogs, etc</tspan></text>		</g>
+			<rect x="0" y="627.732" width="106.299" height="74.4094" class="st10"/>
+			<text x="24.21" y="649.44" class="st2">Media Outlets <tspan x="30.83" dy="1.167em" class="st3">[Software System] </tspan><tspan x="7.97" dy="1.9em" class="st11">Organized Media such </tspan><tspan x="14.58" dy="1em" class="st11">as News, Blogs, etc</tspan></text>		</g>
 		<g id="shape18-94" transform="translate(393.98,-288.693)">
 			<title>Relationship.18</title>
 			<desc>Publishes [HTTPS]</desc>
 			<path d="M0 707.29 L46.94 710.5" class="st5"/>
-			<rect x="13.0443" y="701.159" width="30.6519" height="15.9999" class="st10"/>
+			<rect x="13.0443" y="701.159" width="30.6519" height="15.9999" class="st12"/>
 			<text x="13.04" y="707.16" class="st8">Publishes <tspan x="18.81" dy="1.333em" class="st9">[HTTPS]</tspan></text>		</g>
 		<g id="shape19-102" transform="translate(581.811,-142.441)">
 			<title>Person Gray.19</title>
 			<desc>General Public [Person] Person to convert to community Member</desc>
-			<path d="M37.41 627.73 L19.84 627.73 A19.8425 19.8425 -180 0 0 -0 647.57 L0 682.3 A19.8425 19.8425 -180 0 0 19.84 702.14&#xA;						 L86.46 702.14 A19.8425 19.8425 -180 0 0 106.3 682.3 L106.3 647.57 A19.8425 19.8425 -180 0 0 86.46 627.73&#xA;						 L68.89 627.73 A26.3622 26.5039 -180 1 0 37.41 627.73 Z" class="st11"/>
+			<path d="M37.41 627.73 L19.84 627.73 A19.8425 19.8425 -180 0 0 -0 647.57 L0 682.3 A19.8425 19.8425 -180 0 0 19.84 702.14&#xA;						 L86.46 702.14 A19.8425 19.8425 -180 0 0 106.3 682.3 L106.3 647.57 A19.8425 19.8425 -180 0 0 86.46 627.73&#xA;						 L68.89 627.73 A26.3622 26.5039 -180 1 0 37.41 627.73 Z" class="st10"/>
 			<text x="23.73" y="648.39" class="st2">General Public <tspan x="42.89" dy="1.667em" class="st3">[Person]  </tspan><tspan x="19.88" dy="2.312em" class="st4">Person to convert to </tspan><tspan x="19.69" dy="1.188em" class="st4">community Member</tspan></text>		</g>
 		<g id="shape21-108" transform="translate(270,-529.512)">
 			<title>Person Gray.21</title>
 			<desc>General Public [Person] Person to convert to community Member</desc>
-			<path d="M37.41 627.73 L19.84 627.73 A19.8425 19.8425 -180 0 0 -0 647.57 L0 682.3 A19.8425 19.8425 -180 0 0 19.84 702.14&#xA;						 L86.46 702.14 A19.8425 19.8425 -180 0 0 106.3 682.3 L106.3 647.57 A19.8425 19.8425 -180 0 0 86.46 627.73&#xA;						 L68.89 627.73 A26.3622 26.5039 -180 1 0 37.41 627.73 Z" class="st11"/>
+			<path d="M37.41 627.73 L19.84 627.73 A19.8425 19.8425 -180 0 0 -0 647.57 L0 682.3 A19.8425 19.8425 -180 0 0 19.84 702.14&#xA;						 L86.46 702.14 A19.8425 19.8425 -180 0 0 106.3 682.3 L106.3 647.57 A19.8425 19.8425 -180 0 0 86.46 627.73&#xA;						 L68.89 627.73 A26.3622 26.5039 -180 1 0 37.41 627.73 Z" class="st10"/>
 			<text x="23.73" y="648.39" class="st2">General Public <tspan x="42.89" dy="1.667em" class="st3">[Person]  </tspan><tspan x="19.88" dy="2.312em" class="st4">Person to convert to </tspan><tspan x="19.69" dy="1.188em" class="st4">community Member</tspan></text>		</g>
 		<g id="shape22-114" transform="translate(318.111,-529.512)">
 			<title>Relationship.22</title>
@@ -131,12 +131,12 @@
 			<title>Relationship.23</title>
 			<desc>Reads</desc>
 			<path d="M0 702.14 L-45.27 677.11" class="st5"/>
-			<rect x="-36.7089" y="683.311" width="19.4881" height="7.99997" class="st7"/>
+			<rect x="-36.7089" y="683.311" width="19.4881" height="7.99997" class="st12"/>
 			<text x="-36.71" y="689.31" class="st8">Reads</text>		</g>
 		<g id="shape24-128" transform="translate(594,-293.953)">
 			<title>Person Gray.24</title>
 			<desc>Community Member [Person] Civilian or Officer</desc>
-			<path d="M37.41 627.73 L19.84 627.73 A19.8425 19.8425 -180 0 0 -0 647.57 L0 682.3 A19.8425 19.8425 -180 0 0 19.84 702.14&#xA;						 L86.46 702.14 A19.8425 19.8425 -180 0 0 106.3 682.3 L106.3 647.57 A19.8425 19.8425 -180 0 0 86.46 627.73&#xA;						 L68.89 627.73 A26.3622 26.5039 -180 1 0 37.41 627.73 Z" class="st11"/>
+			<path d="M37.41 627.73 L19.84 627.73 A19.8425 19.8425 -180 0 0 -0 647.57 L0 682.3 A19.8425 19.8425 -180 0 0 19.84 702.14&#xA;						 L86.46 702.14 A19.8425 19.8425 -180 0 0 106.3 682.3 L106.3 647.57 A19.8425 19.8425 -180 0 0 86.46 627.73&#xA;						 L68.89 627.73 A26.3622 26.5039 -180 1 0 37.41 627.73 Z" class="st10"/>
 			<text x="10.77" y="652.39" class="st2">Community Member <tspan x="42.89" dy="1.667em" class="st3">[Person]  </tspan><tspan x="25.12" dy="2.5em" class="st4">Civilian or Officer</tspan></text>		</g>
 		<g id="shape25-133" transform="translate(594,-325.731)">
 			<title>Relationship.25</title>

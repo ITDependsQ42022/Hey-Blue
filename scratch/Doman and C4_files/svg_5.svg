@@ -12,10 +12,10 @@
 		.st6 {font-size:1em}
 		.st7 {marker-end:url(#mrkr13-42);stroke:#444444;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st8 {fill:#444444;fill-opacity:1;stroke:#444444;stroke-opacity:1;stroke-width:0.22935779816514}
-		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st10 {fill:#000000;font-family:Calibri;font-size:0.666664em}
 		.st11 {font-size:0.749991em}
-		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st13 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st14 {fill:#000000;font-family:Calibri;font-size:1.00001em}
 		.st15 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
@@ -72,25 +72,25 @@
 			<title>Relationship.12</title>
 			<desc>Pushes Telemetry [mTLS]</desc>
 			<path d="M0 593.86 L-87.52 519.92" class="st7"/>
-			<rect x="-76.4243" y="545.777" width="57.7414" height="15.9999" class="st12"/>
+			<rect x="-76.4243" y="545.777" width="57.7414" height="15.9999" class="st9"/>
 			<text x="-76.42" y="551.78" class="st10">Pushes Telemetry <tspan x="-55.89" dy="1.333em" class="st11">[mTLS]</tspan></text>		</g>
 		<g id="shape13-54" transform="translate(338.578,-265.559)">
 			<title>Relationship.16</title>
 			<desc>Generates [Event]</desc>
 			<path d="M-7.01 593.86 L-7.14 664.32" class="st7"/>
-			<rect x="-23.8267" y="625.994" width="33.6206" height="15.9999" class="st9"/>
+			<rect x="-23.8267" y="625.994" width="33.6206" height="15.9999" class="st12"/>
 			<text x="-23.83" y="631.99" class="st10">Generates <tspan x="-15.75" dy="1.333em" class="st11">[Event]</tspan></text>		</g>
 		<g id="shape14-62" transform="translate(199.605,-433.316)">
 			<title>Relationship</title>
 			<desc>Generates/Reads [HTTPS]</desc>
 			<path d="M0 593.86 L71.67 658.79" class="st7"/>
-			<rect x="11.4192" y="621.569" width="56.1986" height="15.9999" class="st12"/>
+			<rect x="11.4192" y="621.569" width="56.1986" height="15.9999" class="st9"/>
 			<text x="11.42" y="627.57" class="st10">Generates/Reads <tspan x="29.96" dy="1.333em" class="st11">[HTTPS]</tspan></text>		</g>
 		<g id="shape15-70" transform="translate(484.849,-437.66)">
 			<title>Relationship.15</title>
 			<desc>Model/Analyze/Monitor/Investigate [HTTPS]</desc>
 			<path d="M0 593.86 L-86.11 663.55" class="st7"/>
-			<rect x="-105.882" y="623.847" width="118.108" height="15.9999" class="st12"/>
+			<rect x="-105.882" y="623.847" width="118.108" height="15.9999" class="st9"/>
 			<text x="-105.88" y="629.85" class="st10">Model/Analyze/Monitor/Investigate <tspan x="-56.39" dy="1.333em" class="st11">[HTTPS]</tspan></text>		</g>
 		<g id="shape16-78" transform="translate(10.063,-10.2047)">
 			<title>Sheet.16</title>

@@ -15,10 +15,10 @@
 		.st9 {font-size:0.799995em}
 		.st10 {marker-end:url(#mrkr13-40);stroke:#444444;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st11 {fill:#444444;fill-opacity:1;stroke:#444444;stroke-opacity:1;stroke-width:0.22935779816514}
-		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st13 {fill:#000000;font-family:Calibri;font-size:0.666664em}
 		.st14 {font-size:0.749991em}
-		.st15 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st15 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st16 {fill:#1e807c;stroke:#3d81c3;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st17 {fill:#218e8a;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st18 {fill:#218e8a;stroke:#1e807c;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.283465}
@@ -98,7 +98,7 @@
 			<title>Relationship.11</title>
 			<desc>Queries [mTLS]</desc>
 			<path d="M5.56 759.69 L7.73 783.55" class="st10"/>
-			<rect x="-5.49367" y="768.495" width="25.3004" height="15.9999" class="st15"/>
+			<rect x="-5.49367" y="768.495" width="25.3004" height="15.9999" class="st12"/>
 			<text x="-5.49" y="774.49" class="st13">Queries <tspan x="-1.18" dy="1.333em" class="st14">[mTLS]</tspan></text>		</g>
 		<g id="shape12-77" transform="translate(519.024,-248.644)">
 			<title>Relationship.12</title>
@@ -149,7 +149,7 @@
 			<title>Relationship.23</title>
 			<desc>Uses [mTLS]</desc>
 			<path d="M0 760.68 L-234.81 772.37" class="st10"/>
-			<rect x="-130.643" y="758.842" width="16.6756" height="15.9999" class="st15"/>
+			<rect x="-130.643" y="758.842" width="16.6756" height="15.9999" class="st12"/>
 			<text x="-129.99" y="764.84" class="st13">Uses <tspan x="-130.64" dy="1.333em" class="st14">[mTLS]</tspan></text>		</g>
 		<g id="shape24-118" transform="translate(172.368,-571.181)">
 			<title>Person</title>
@@ -160,7 +160,7 @@
 			<title>Relationship.25</title>
 			<desc>Uses [HTTPS]</desc>
 			<path d="M0 759.69 L72.28 1005.67" class="st10"/>
-			<rect x="28.0312" y="879.37" width="19.1217" height="15.9999" class="st12"/>
+			<rect x="28.0312" y="879.37" width="19.1217" height="15.9999" class="st15"/>
 			<text x="29.91" y="885.37" class="st13">Uses <tspan x="28.03" dy="1.333em" class="st14">[HTTPS]</tspan></text>		</g>
 		<g id="shape26-132" transform="translate(376.735,-571.181)">
 			<title>Person.26</title>
@@ -303,7 +303,7 @@
 			<title>Relationship.58</title>
 			<desc>Generate, Publish, Schedule [HTTPS]</desc>
 			<path d="M0 759.69 L62.84 844.82" class="st10"/>
-			<rect x="-11.162" y="798.157" width="91.1082" height="15.9999" class="st12"/>
+			<rect x="-11.162" y="798.157" width="91.1082" height="15.9999" class="st15"/>
 			<text x="-11.16" y="804.16" class="st13">Generate, Publish, Schedule <tspan x="24.83" dy="1.333em" class="st14">[HTTPS]</tspan></text>		</g>
 		<g id="shape60-270" transform="translate(821.1,-571.181)">
 			<title>Relationship.60</title>
@@ -315,7 +315,7 @@
 			<title>Relationship.117</title>
 			<desc>Read/Verify [HTTPS]</desc>
 			<path d="M0 759.69 L-78.92 849.01" class="st10"/>
-			<rect x="-61.9849" y="800.074" width="38.6559" height="15.9999" class="st15"/>
+			<rect x="-61.9849" y="800.074" width="38.6559" height="15.9999" class="st12"/>
 			<text x="-61.98" y="806.07" class="st13">Read/Verify <tspan x="-52.22" dy="1.333em" class="st14">[HTTPS]</tspan></text>		</g>
 		<g id="group118-286" transform="translate(438.956,-429.168)">
 			<title>Web browser.118</title>
@@ -361,7 +361,7 @@
 			<title>Relationship.128</title>
 			<desc>Uses [technology]</desc>
 			<path d="M0 759.69 L274.2 890.52" class="st10"/>
-			<rect x="126.181" y="819.153" width="30.7614" height="15.9999" class="st12"/>
+			<rect x="126.181" y="819.153" width="30.7614" height="15.9999" class="st15"/>
 			<text x="133.88" y="825.15" class="st13">Uses <tspan x="126.18" dy="1.333em" class="st14">[technology]</tspan></text>		</g>
 		<g id="shape129-320" transform="translate(500.115,-429.168)">
 			<title>Relationship.129</title>
@@ -389,13 +389,13 @@
 			<title>Relationship.134</title>
 			<desc>Pushes Telemetry [mTLS]</desc>
 			<path d="M0 759.69 L70.99 791.5" class="st10"/>
-			<rect x="11.1283" y="769.536" width="57.7414" height="15.9999" class="st12"/>
+			<rect x="11.1283" y="769.536" width="57.7414" height="15.9999" class="st15"/>
 			<text x="11.13" y="775.54" class="st13">Pushes Telemetry <tspan x="31.66" dy="1.333em" class="st14">[mTLS]</tspan></text>		</g>
 		<g id="shape135-356" transform="translate(198.425,-161.997)">
 			<title>Relationship.135</title>
 			<desc>Pushes Telemetry [mTLS]</desc>
 			<path d="M0 759.69 L70.35 744.37" class="st10"/>
-			<rect x="11.0847" y="742.914" width="57.7414" height="15.9999" class="st12"/>
+			<rect x="11.0847" y="742.914" width="57.7414" height="15.9999" class="st15"/>
 			<text x="11.08" y="748.91" class="st13">Pushes Telemetry <tspan x="31.62" dy="1.333em" class="st14">[mTLS]</tspan></text>		</g>
 		<g id="shape136-364" transform="translate(935.433,-238.635)">
 			<title>Software System.10</title>
