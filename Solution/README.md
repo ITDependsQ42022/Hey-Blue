@@ -12,7 +12,7 @@ We will cover only Level 0 and Level 1 (System Contexts) in this document. Follo
 
 The following Hey Blue! Context diagram depicts all users (members, organizations and Hey Blue! staff) and all systems that interact.
 
-> Note: For simplicity in this diagram the arrows from all Systems to "Analytics and Reporting" are not shown. However they are detailed in drill-downs. All systems report telemetry to "Analytics and Reporting".
+> Note: For simplicity in this diagram the arrows from all Systems to "Analytics and Reporting" are not shown. However, when it is analytical events in addition to operational logs/metrics/traces they are detailed in drill-downs. **All Containers in all Systems report Observability telemetry signal (Logs, Metrics, Traces) to "Analytics and Reporting"**.
 
 ![Hey Blue! Organizational Context Diagram](./Hey%20Blue!%20Context.png)
 
@@ -23,7 +23,7 @@ The following Hey Blue! Context diagram depicts all users (members, organization
 This system handles the heart of the Hey Blue! experience.  
 _add more to the narrative_
 
-![Interaction Manager System Context Diagram](./Interaction%20Manager/Interaction%20Manager%20Context.png)
+[![Interaction Manager System Context Diagram](./Interaction%20Manager/Interaction%20Manager%20Context.png)](./Interaction%20Manager/README.md#System-Containers)
 
 ### Level 1 - [Donation and Redemption](./Donation%20and%20Redemption/README.md)
 
@@ -31,7 +31,7 @@ _add more to the narrative_
 
 This system handles everything related to points accounting, donation, redemption, organizational representation (e.g. storefront) and finally cash accounting for the Hey Blue affiliate business model.
 
-![Donation and Redemption System Context Diagram](./Donation%20and%20Redemption/Donation%20and%20Redemption%20Context.png)
+[![Donation and Redemption System Context Diagram](./Donation%20and%20Redemption/Donation%20and%20Redemption%20Context.png)](./Donation%20and%20Redemption/README.md#System-Containers)
 
 ### Level 1 - [Media Management](./Social%20and%20Other%20Media/README.md)
 
@@ -39,7 +39,7 @@ This system handles everything related to points accounting, donation, redemptio
 
 This system handles integration with publicity channels, which includes social media and other media platforms.
 
-![Media Management System Context Diagram](./Social%20and%20Other%20Media/Media%20Context.png)
+[![Media Management System Context Diagram](./Social%20and%20Other%20Media/Media%20Context.png)](./Social%20and%20Other%20Media/README.md#System-Containers)
 
 ### Level 1 - [Analytics and Reporting](./Analytics%20and%20Reporting/README.md)
 
@@ -54,7 +54,7 @@ This system encompasses all elements of storage, query, analysis, reporting and 
 - DevOps/SRE monitoring, alerting, analysis and automation
 - System operational analysis to drive cost reduction
 
-![Analytics and Reporting](./Analytics%20and%20Reporting/Analytics%20Reporting%20Context.png)
+[![Analytics and Reporting](./Analytics%20and%20Reporting/Analytics%20Reporting%20Context.png)](./Analytics%20and%20Reporting/README.md#System-Containers)
 
 ## Architectural Characteristics
 
