@@ -1,6 +1,6 @@
 ## Security
 
-Security of the application and user data protection 
+To be successful Hey Blue! must be able to maintain trust with their Civilian and Officer community members. For Officers the drivers are privacy and safety (in particular as it relates to live location data). For Civilians the drivers are privacy, safety and data ownership.
 
 ## Affordability
 
