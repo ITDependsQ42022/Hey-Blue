@@ -68,13 +68,13 @@
 			<title>Relationship.7</title>
 			<desc>Donates [HTTPS]</desc>
 			<path d="M0 716.6 L32.94 812.02" class="st6"/>
-			<rect x="4.65616" y="760.927" width="26.9646" height="15.9999" class="st11"/>
+			<rect x="4.65616" y="760.927" width="26.9646" height="15.9999" class="st8"/>
 			<text x="4.66" y="766.93" class="st9">Donates <tspan x="8.58" dy="1.333em" class="st10">[HTTPS]</tspan></text>		</g>
 		<g id="shape8-52" transform="translate(391.66,-563.528)">
 			<title>Relationship.8</title>
 			<desc>Publishes Needs [HTTPS]</desc>
 			<path d="M0 716.6 L-42.56 812.33" class="st6"/>
-			<rect x="-49.6697" y="760.978" width="52.9173" height="15.9999" class="st8"/>
+			<rect x="-49.6697" y="760.978" width="52.9173" height="15.9999" class="st11"/>
 			<text x="-49.67" y="766.98" class="st9">Publishes Needs <tspan x="-32.77" dy="1.333em" class="st10">[HTTPS]</tspan></text>		</g>
 		<g id="shape9-60" transform="translate(493.228,-527.572)">
 			<title>Relationship.9</title>
@@ -118,7 +118,7 @@
 			<title>Relationship.16</title>
 			<desc>Integrates [technology]</desc>
 			<path d="M0 716.6 L-52.64 779.92" class="st6"/>
-			<rect x="-45.9289" y="744.078" width="33.0543" height="15.9999" class="st8"/>
+			<rect x="-45.9289" y="744.078" width="33.0543" height="15.9999" class="st11"/>
 			<text x="-45.93" y="750.08" class="st9">Integrates <tspan x="-44.78" dy="1.333em" class="st10">[technology]</tspan></text>		</g>
 		<g id="shape17-115" transform="translate(271.701,-214.441)">
 			<title>Software System Gray.17</title>
@@ -129,7 +129,7 @@
 			<title>Relationship.18</title>
 			<desc>Integrates [technology]</desc>
 			<path d="M6.69 716.6 L7.37 777.66" class="st6"/>
-			<rect x="-9.37032" y="744.032" width="33.0543" height="15.9999" class="st11"/>
+			<rect x="-9.37032" y="744.032" width="33.0543" height="15.9999" class="st8"/>
 			<text x="-9.37" y="750.03" class="st9">Integrates <tspan x="-8.22" dy="1.333em" class="st10">[technology]</tspan></text>		</g>
 		<g id="shape19-129" transform="translate(408.189,-216.213)">
 			<title>Software System Gray.19</title>
@@ -140,7 +140,7 @@
 			<title>Relationship.20</title>
 			<desc>Integrates [technology]</desc>
 			<path d="M0 716.6 L83.31 779.77" class="st6"/>
-			<rect x="29.0819" y="743.092" width="33.0543" height="15.9999" class="st8"/>
+			<rect x="29.0819" y="743.092" width="33.0543" height="15.9999" class="st11"/>
 			<text x="29.08" y="749.09" class="st9">Integrates <tspan x="30.23" dy="1.333em" class="st10">[technology]</tspan></text>		</g>
 		<g id="shape21-144" transform="translate(145.984,-76.252)">
 			<title>Person Gray</title>
@@ -151,7 +151,7 @@
 			<title>Relationship.22</title>
 			<desc>Uses</desc>
 			<path d="M5.76 716.6 L7.88 677.65" class="st6"/>
-			<rect x="-0.668743" y="688.22" width="15.371" height="7.99997" class="st8"/>
+			<rect x="-0.668743" y="688.22" width="15.371" height="7.99997" class="st11"/>
 			<text x="-0.67" y="694.22" class="st9">Uses</text>		</g>
 		<g id="shape23-157" transform="translate(285.874,-76.252)">
 			<title>Person Gray.23</title>

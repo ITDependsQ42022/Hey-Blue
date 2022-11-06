@@ -27,7 +27,7 @@
 				</Shape>
 				<Shape ID="4" UniqueID="{96BE3D57-1065-4913-957C-4A7726916DD0}" Name="Dynamic connector.4" NameU="Dynamic connector.4" Master="4">
 					<XForm>
-						<PinX Unit="MM">7.781250000000001</PinX>
+						<PinX Unit="MM">7.781250000000000</PinX>
 						<PinY Unit="MM">3.089197834645669</PinY>
 					</XForm>
 					<LayerMem>
@@ -85,7 +85,7 @@ Location</Text>
 				<Shape ID="12" UniqueID="{BB797A5F-14EC-4FE3-BC02-3F728A0639F2}" Name="Dynamic connector.12" NameU="Dynamic connector.12" Master="4">
 					<XForm>
 						<PinX Unit="MM">3.149606299212599</PinX>
-						<PinY Unit="MM">3.026574803149606</PinY>
+						<PinY Unit="MM">3.026574803149607</PinY>
 					</XForm>
 					<LayerMem>
 						<LayerMember>0</LayerMember>
@@ -139,7 +139,7 @@ Location</Text>
 				</Shape>
 				<Shape ID="22" UniqueID="{9B208E16-C995-4B02-B4CA-321768ADDF42}" Name="Dynamic connector.22" NameU="Dynamic connector.22" Master="4">
 					<XForm>
-						<PinX Unit="MM">7.923228346456693</PinX>
+						<PinX Unit="MM">7.923228346456694</PinX>
 						<PinY Unit="MM">6.594488188976379</PinY>
 					</XForm>
 					<LayerMem>
@@ -167,7 +167,7 @@ Location</Text>
 				</Shape>
 				<Shape ID="25" UniqueID="{51D8B1C1-7B83-414D-9AC7-C5F25ABEEB56}" Name="Dynamic connector.25" NameU="Dynamic connector.25" Master="4">
 					<XForm>
-						<PinX Unit="MM">10.039370078740157</PinX>
+						<PinX Unit="MM">10.039370078740159</PinX>
 						<PinY Unit="MM">5.191929133858268</PinY>
 					</XForm>
 					<LayerMem>
@@ -176,7 +176,7 @@ Location</Text>
 				</Shape>
 				<Shape ID="27" UniqueID="{F477BB8C-422F-49B6-9471-16E0FBF46C4C}" Name="Dynamic connector.27" NameU="Dynamic connector.27" Master="4">
 					<XForm>
-						<PinX Unit="MM">11.921389797594452</PinX>
+						<PinX Unit="MM">11.921389797594450</PinX>
 						<PinY Unit="MM">3.773207326538081</PinY>
 					</XForm>
 					<LayerMem>
@@ -185,7 +185,7 @@ Location</Text>
 				</Shape>
 				<Shape ID="29" UniqueID="{99D0C766-C8AE-434A-9BCB-BC6FFB8E62F1}" Name="Dynamic connector.29" NameU="Dynamic connector.29" Master="4">
 					<XForm>
-						<PinX Unit="MM">11.072834645669293</PinX>
+						<PinX Unit="MM">11.072834645669291</PinX>
 						<PinY Unit="MM">5.634842519685040</PinY>
 					</XForm>
 					<LayerMem>
@@ -196,7 +196,7 @@ Location</Text>
 					<Text>Charity
 Relations</Text>
 					<XForm>
-						<PinX Unit="MM">10.925196850393702</PinX>
+						<PinX Unit="MM">10.925196850393700</PinX>
 						<PinY Unit="MM">4.478346456692914</PinY>
 					</XForm>
 					<LayerMem>
@@ -205,7 +205,7 @@ Relations</Text>
 				</Shape>
 				<Shape ID="30" UniqueID="{367E7B1D-F7AD-4563-BF83-743078E35B79}" Name="Dynamic connector.30" NameU="Dynamic connector.30" Master="4">
 					<XForm>
-						<PinX Unit="MM">10.187007874015748</PinX>
+						<PinX Unit="MM">10.187007874015750</PinX>
 						<PinY Unit="MM">6.348425196850394</PinY>
 					</XForm>
 					<LayerMem>
@@ -223,7 +223,7 @@ Relations</Text>
 				</Shape>
 				<Shape ID="32" UniqueID="{60410A7C-7B52-4CE3-9CEB-1E2E32C54181}" Name="Dynamic connector.32" NameU="Dynamic connector.32" Master="4">
 					<XForm>
-						<PinX Unit="MM">11.122047244094489</PinX>
+						<PinX Unit="MM">11.122047244094491</PinX>
 						<PinY Unit="MM">4.625984251968505</PinY>
 					</XForm>
 					<LayerMem>
@@ -270,7 +270,7 @@ Relations</Text>
 				</Shape>
 				<Shape ID="35" UniqueID="{102CC544-8F29-4DA4-B062-6185C4E3954F}" Name="Dynamic connector.35" NameU="Dynamic connector.35" Master="4">
 					<XForm>
-						<PinX Unit="MM">12.598425196850394</PinX>
+						<PinX Unit="MM">12.598425196850391</PinX>
 						<PinY Unit="MM">4.183070866141732</PinY>
 					</XForm>
 					<LayerMem>
@@ -281,7 +281,7 @@ Relations</Text>
 					<Text>Social Impact
 Relations</Text>
 					<XForm>
-						<PinX Unit="MM">12.696850393700789</PinX>
+						<PinX Unit="MM">12.696850393700791</PinX>
 						<PinY Unit="MM">5.413385826771654</PinY>
 					</XForm>
 					<LayerMem>
@@ -290,7 +290,7 @@ Relations</Text>
 				</Shape>
 				<Shape ID="37" UniqueID="{AD591366-120D-48CA-A2CE-731AC789A5AC}" Name="Dynamic connector.37" NameU="Dynamic connector.37" Master="4">
 					<XForm>
-						<PinX Unit="MM">12.253937007874017</PinX>
+						<PinX Unit="MM">12.253937007874020</PinX>
 						<PinY Unit="MM">6.299212598425197</PinY>
 					</XForm>
 					<LayerMem>
@@ -299,7 +299,7 @@ Relations</Text>
 				</Shape>
 				<Shape ID="38" UniqueID="{425F7EDD-C04F-4568-AD8E-7DB87BFB0021}" Name="Dynamic connector.38" NameU="Dynamic connector.38" Master="4">
 					<XForm>
-						<PinX Unit="MM">11.515748031496063</PinX>
+						<PinX Unit="MM">11.515748031496059</PinX>
 						<PinY Unit="MM">4.536002602128633</PinY>
 					</XForm>
 					<LayerMem>
@@ -309,7 +309,7 @@ Relations</Text>
 				<Shape ID="23" UniqueID="{211CAF9E-F8D6-4BD4-8A02-59CFF2C4FB8A}" Name="Shape23" NameU="Shape23">
 					<Text>Store Front</Text>
 					<XForm>
-						<PinX Unit="MM">11.220472440944883</PinX>
+						<PinX Unit="MM">11.220472440944880</PinX>
 						<PinY Unit="MM">6.791338582677166</PinY>
 					</XForm>
 					<LayerMem>
@@ -318,7 +318,7 @@ Relations</Text>
 				</Shape>
 				<Shape ID="39" UniqueID="{D15C599F-32BF-4FFA-BA05-C29D9757E783}" Name="Dynamic connector.39" NameU="Dynamic connector.39" Master="4">
 					<XForm>
-						<PinX Unit="MM">11.515748031496063</PinX>
+						<PinX Unit="MM">11.515748031496059</PinX>
 						<PinY Unit="MM">2.755905511811024</PinY>
 					</XForm>
 					<LayerMem>
@@ -336,8 +336,8 @@ Relations</Text>
 				</Shape>
 				<Shape ID="42" UniqueID="{EBED6255-C972-45F6-B910-B3D000D0B91D}" Name="Dynamic connector.42" NameU="Dynamic connector.42" Master="4">
 					<XForm>
-						<PinX Unit="MM">11.773752002318863</PinX>
-						<PinY Unit="MM">1.583246696616821</PinY>
+						<PinX Unit="MM">11.773752002318860</PinX>
+						<PinY Unit="MM">1.583246696616822</PinY>
 					</XForm>
 					<LayerMem>
 						<LayerMember>0</LayerMember>
@@ -345,7 +345,7 @@ Relations</Text>
 				</Shape>
 				<Shape ID="44" UniqueID="{6CFD2A2D-9029-4DDE-A0C1-C26608460DBF}" Name="Dynamic connector.44" NameU="Dynamic connector.44" Master="4">
 					<XForm>
-						<PinX Unit="MM">10.826771653543307</PinX>
+						<PinX Unit="MM">10.826771653543309</PinX>
 						<PinY Unit="MM">1.673228346456693</PinY>
 					</XForm>
 					<LayerMem>
@@ -355,7 +355,7 @@ Relations</Text>
 				<Shape ID="5" UniqueID="{5F62A5A3-26B3-4289-9F5C-9FB32AF7D153}" Name="Shape5" NameU="Shape5">
 					<Text>Temporal and Geographic Event History</Text>
 					<XForm>
-						<PinX Unit="MM">10.531496062992126</PinX>
+						<PinX Unit="MM">10.531496062992129</PinX>
 						<PinY Unit="MM">2.559055118110237</PinY>
 					</XForm>
 					<LayerMem>
@@ -401,7 +401,7 @@ Relations</Text>
 				</Shape>
 				<Shape ID="49" UniqueID="{BBBDF623-B990-4D34-BCD5-7C28319A271A}" Name="Dynamic connector.49" NameU="Dynamic connector.49" Master="4">
 					<XForm>
-						<PinX Unit="MM">13.582677165354331</PinX>
+						<PinX Unit="MM">13.582677165354330</PinX>
 						<PinY Unit="MM">2.854330708661418</PinY>
 					</XForm>
 					<LayerMem>
@@ -429,7 +429,7 @@ Relations</Text>
 				</Shape>
 				<Shape ID="52" UniqueID="{BB580E22-8E21-40D1-B836-FF92A090B22B}" Name="Dynamic connector.52" NameU="Dynamic connector.52" Master="4">
 					<XForm>
-						<PinX Unit="MM">10.100523655862169</PinX>
+						<PinX Unit="MM">10.100523655862171</PinX>
 						<PinY Unit="MM">0.894270318664067</PinY>
 					</XForm>
 					<LayerMem>
@@ -449,7 +449,7 @@ Relations</Text>
 				<Shape ID="45" UniqueID="{85795EFE-F669-44E8-A3A4-A080CAE4BEBB}" Name="Shape45" NameU="Shape45">
 					<Text>AI/ML</Text>
 					<XForm>
-						<PinX Unit="MM">11.122047244094489</PinX>
+						<PinX Unit="MM">11.122047244094491</PinX>
 						<PinY Unit="MM">0.787401574803150</PinY>
 					</XForm>
 					<LayerMem>
@@ -538,7 +538,7 @@ Integration</Text>
 					<Text>Community
 Budgets</Text>
 					<XForm>
-						<PinX Unit="MM">13.188976377952757</PinX>
+						<PinX Unit="MM">13.188976377952759</PinX>
 						<PinY Unit="MM">0.885826771653543</PinY>
 					</XForm>
 					<LayerMem>
@@ -557,7 +557,7 @@ Budgets</Text>
 				</Shape>
 				<Shape ID="60" UniqueID="{BB2085FD-D8FA-4BF2-8DBB-957D65BC4DC4}" Name="Dynamic connector.60" NameU="Dynamic connector.60" Master="4">
 					<XForm>
-						<PinX Unit="MM">7.923228346456693</PinX>
+						<PinX Unit="MM">7.923228346456694</PinX>
 						<PinY Unit="MM">1.722440944881890</PinY>
 					</XForm>
 					<LayerMem>
@@ -623,7 +623,7 @@ Service</Text>
 				</Shape>
 				<Shape ID="68" UniqueID="{7A0C0AA2-9B11-48FC-9729-1C98A037024F}" Name="Dynamic connector.68" NameU="Dynamic connector.68" Master="4">
 					<XForm>
-						<PinX Unit="MM">4.220472440944881</PinX>
+						<PinX Unit="MM">4.220472440944882</PinX>
 						<PinY Unit="MM">3.559469838816250</PinY>
 					</XForm>
 					<LayerMem>
@@ -642,7 +642,7 @@ Service</Text>
 				</Shape>
 				<Shape ID="69" UniqueID="{BF108E67-FEC8-44F8-8C9E-CF5D9197BC75}" Name="Dynamic connector.69" NameU="Dynamic connector.69" Master="4">
 					<XForm>
-						<PinX Unit="MM">7.923228346456693</PinX>
+						<PinX Unit="MM">7.923228346456694</PinX>
 						<PinY Unit="MM">7.504921259842520</PinY>
 					</XForm>
 					<LayerMem>
@@ -680,16 +680,16 @@ System for community members to interact for good</Text>
 					<Text>Interactions Workflow
 [HTTPS]</Text>
 					<XForm>
-						<PinX Unit="MM">4.296172990274682</PinX>
-						<PinY Unit="MM">3.521263075476694</PinY>
+						<PinX Unit="MM">4.981355095488217</PinX>
+						<PinY Unit="MM">3.475885935572092</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="5" UniqueID="{F129D6A7-0336-46E1-ACAF-446A548AFB8D}" Name="Relationship.5" NameU="Relationship.5" Master="10">
 					<Text>Interactions Workflow
 [HTTPS]</Text>
 					<XForm>
-						<PinX Unit="MM">5.511503779552445</PinX>
-						<PinY Unit="MM">3.513287373389556</PinY>
+						<PinX Unit="MM">6.143373463061595</PinX>
+						<PinY Unit="MM">3.562789744414363</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="10" UniqueID="{EA420A57-5FFC-41C5-92A1-4247AA152A5B}" Name="Software System.10" NameU="Software System.10" Master="9">
@@ -697,16 +697,16 @@ System for community members to interact for good</Text>
 [Software System] 
 Interaction and Operational data management/analytics/reporting</Text>
 					<XForm>
-						<PinX Unit="MM">2.165354406018969</PinX>
-						<PinY Unit="MM">2.480314947055183</PinY>
+						<PinX Unit="MM">1.968504005471791</PinX>
+						<PinY Unit="MM">3.735236449743240</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="11" UniqueID="{36C19C61-4786-4085-8E13-01661E9C7754}" Name="Relationship.11" NameU="Relationship.11" Master="10">
 					<Text>Pushes Telemetry
 [mTLS]</Text>
 					<XForm>
-						<PinX Unit="MM">3.508858405295279</PinX>
-						<PinY Unit="MM">2.480314947055183</PinY>
+						<PinX Unit="MM">3.410433205021689</PinX>
+						<PinY Unit="MM">3.136389539033925</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="13" UniqueID="{E938CDB8-030E-4E83-AE20-7FBD2A1E1E47}" Name="Person" NameU="User" Master="8">
@@ -715,8 +715,8 @@ Interaction and Operational data management/analytics/reporting</Text>
 
 A non-police officer community member</Text>
 					<XForm>
-						<PinX Unit="MM">3.455994392603682</PinX>
-						<PinY Unit="MM">4.781496007884066</PinY>
+						<PinX Unit="MM">4.970472633858304</PinX>
+						<PinY Unit="MM">4.706693132249137</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="14" UniqueID="{00775621-00FB-4DCA-BB6F-52D1DE6801A6}" Name="Person.14" NameU="User.14" Master="8">
@@ -725,8 +725,8 @@ A non-police officer community member</Text>
 
 Police Officer community member</Text>
 					<XForm>
-						<PinX Unit="MM">6.151574734098202</PinX>
-						<PinY Unit="MM">4.781496007884066</PinY>
+						<PinX Unit="MM">7.362032284632512</PinX>
+						<PinY Unit="MM">4.706693132249137</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="16" UniqueID="{39585187-C635-4593-98F1-63EA0F4C70A4}" Name="Sheet.16" NameU="Sheet.16">
@@ -753,6 +753,23 @@ External system providing GIS capabilities</Text>
 						<PinY Unit="MM">2.480315042402757</PinY>
 					</XForm>
 				</Shape>
+				<Shape ID="20" UniqueID="{AF99C911-B04F-4CFB-88CC-D44CC43DBBD1}" Name="Software System.15" NameU="Software System.15" Master="9">
+					<Text>OrganizationalIncentives
+[Software System] 
+Manages Charity and Business Relations and Donation/Redemption</Text>
+					<XForm>
+						<PinX Unit="MM">1.968504005471790</PinX>
+						<PinY Unit="MM">2.283464727736017</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{4B2453BD-7C3D-4B51-885D-83AE6CB5FBE3}" Name="Relationship.22" NameU="Relationship.22" Master="10">
+					<Text>Records Points
+[Event]</Text>
+					<XForm>
+						<PinX Unit="MM">3.448503920975978</PinX>
+						<PinY Unit="MM">2.379881571295083</PinY>
+					</XForm>
+				</Shape>
 			</Shapes>
 		</Page>
 		<Page ID="5" Name="Context - Media Positivity" NameU="Media Interaction">
@@ -766,7 +783,7 @@ External system providing GIS capabilities</Text>
 [Software System] 
 System for community members to interact for good</Text>
 					<XForm>
-						<PinX Unit="MM">1.624015788775083</PinX>
+						<PinX Unit="MM">1.624015788775084</PinX>
 						<PinY Unit="MM">3.833661469928799</PinY>
 					</XForm>
 				</Shape>
@@ -908,7 +925,7 @@ Person to convert to community Member</Text>
 					<Text>Reads</Text>
 					<XForm>
 						<PinX Unit="MM">8.110246165352166</PinX>
-						<PinY Unit="MM">3.218636987300723</PinY>
+						<PinY Unit="MM">3.218636987300724</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="24" UniqueID="{0C0445A1-FBE5-4B33-A198-6057F1DA969C}" Name="Person Gray.24" NameU="User Gray.24" Master="11">
@@ -951,7 +968,7 @@ Police Officer community member</Text>
 				<Shape ID="29" UniqueID="{9609E7B5-B075-4F41-89EA-70FDB815A232}" Name="Sheet.29" NameU="Sheet.29">
 					<Text>[System Context] MediaPositivity System</Text>
 					<XForm>
-						<PinX Unit="MM">2.008858387237868</PinX>
+						<PinX Unit="MM">2.008858387237869</PinX>
 						<PinY Unit="MM">0.947929903411956</PinY>
 					</XForm>
 				</Shape>
@@ -1080,7 +1097,7 @@ Manages Social and Other Media Interactions</Text>
 [Event]</Text>
 					<XForm>
 						<PinX Unit="MM">2.814960742047106</PinX>
-						<PinY Unit="MM">5.678760640270966</PinY>
+						<PinY Unit="MM">5.678760640270967</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="14" UniqueID="{C84D5B71-5580-4347-8131-276D90018FC7}" Name="Sheet.14" NameU="Sheet.14">
@@ -1170,7 +1187,7 @@ Publicizes</Text>
 					<Text>Uses</Text>
 					<XForm>
 						<PinX Unit="MM">4.511815114502522</PinX>
-						<PinY Unit="MM">2.640879265924529</PinY>
+						<PinY Unit="MM">2.640879265924530</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="25" UniqueID="{D6AC6FD2-184A-4870-8684-B823CF40D209}" Name="Person Gray.25" NameU="User Gray.25" Master="11">
@@ -1294,8 +1311,8 @@ Manages Charity and Business Relations and Donation/Redemption</Text>
 					<Text>Model/Analyze/Monitor/Investigate
 [HTTPS]</Text>
 					<XForm>
-						<PinX Unit="MM">6.083047604802005</PinX>
-						<PinY Unit="MM">5.551770493130403</PinY>
+						<PinX Unit="MM">6.083047604802006</PinX>
+						<PinY Unit="MM">5.551770493130404</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="16" UniqueID="{BA64ED0C-F433-4619-8136-D5B58FB949AA}" Name="Sheet.16" NameU="Sheet.16">
@@ -1316,7 +1333,7 @@ Manages Charity and Business Relations and Donation/Redemption</Text>
 				<Shape ID="1" UniqueID="{55A83FB0-3547-46D2-A708-4DD89BBBCC97}" Name="Container Boundary" NameU="Container Boundary" Master="13">
 					<Text>Analystics and Reporting [Software System]</Text>
 					<XForm>
-						<PinX Unit="MM">7.888779919304953</PinX>
+						<PinX Unit="MM">7.888779919304954</PinX>
 						<PinY Unit="MM">4.255938394953643</PinY>
 					</XForm>
 				</Shape>
@@ -1347,7 +1364,7 @@ Ingress for all Telemetry Signals</Text>
 description of
 database</Text>
 					<XForm>
-						<PinX Unit="MM">11.270349431415955</PinX>
+						<PinX Unit="MM">11.270349431415960</PinX>
 						<PinY Unit="MM">2.257119455768207</PinY>
 					</XForm>
 				</Shape>
@@ -1373,8 +1390,8 @@ container</Text>
 					<Text>Loads
 [mTLS]</Text>
 					<XForm>
-						<PinX Unit="MM">10.164210307429045</PinX>
-						<PinY Unit="MM">2.257119455768207</PinY>
+						<PinX Unit="MM">10.164210307429050</PinX>
+						<PinY Unit="MM">2.257119455768208</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="9" UniqueID="{B50795BD-B3D0-4ED6-AA7C-16CA8DD46664}" Name="Container.9" NameU="Container.9" Master="15">
@@ -1433,7 +1450,7 @@ Dashboards, Alerting, Systems Analysis</Text>
 
 Schedules, Generates and Publishes Reports</Text>
 					<XForm>
-						<PinX Unit="MM">11.270349431415962</PinX>
+						<PinX Unit="MM">11.270349431415960</PinX>
 						<PinY Unit="MM">3.866666692831784</PinY>
 					</XForm>
 				</Shape>
@@ -1565,7 +1582,7 @@ Storage of ML Models</Text>
 
 Organizational and Operational Management</Text>
 					<XForm>
-						<PinX Unit="MM">11.376399099459753</PinX>
+						<PinX Unit="MM">11.376399099459750</PinX>
 						<PinY Unit="MM">8.706660034981692</PinY>
 					</XForm>
 				</Shape>
@@ -1575,13 +1592,13 @@ Organizational and Operational Management</Text>
 
 Drives Positive Data-Driven Media Interaction </Text>
 					<XForm>
-						<PinX Unit="MM">13.500151614006473</PinX>
+						<PinX Unit="MM">13.500151614006469</PinX>
 						<PinY Unit="MM">8.706660034981692</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="48" UniqueID="{1147325E-1748-425A-B5C5-8E3C12B3A020}" Name="Web browser.48" NameU="Container, Mobile App.48" Master="16">
 					<XForm>
-						<PinX Unit="MM">11.248032156181775</PinX>
+						<PinX Unit="MM">11.248032156181781</PinX>
 						<PinY Unit="MM">6.157513264239393</PinY>
 					</XForm>
 				</Shape>
@@ -1591,7 +1608,7 @@ Drives Positive Data-Driven Media Interaction </Text>
 
 Supports Reading, Publishing, Generating and Scheduling</Text>
 					<XForm>
-						<PinX Unit="MM">11.248032156181775</PinX>
+						<PinX Unit="MM">11.248032156181781</PinX>
 						<PinY Unit="MM">6.157513264239393</PinY>
 					</XForm>
 				</Shape>
@@ -1615,7 +1632,7 @@ Supports Reading, Publishing, Generating and Scheduling</Text>
 					<Text>Read
 [HTTPS]</Text>
 					<XForm>
-						<PinX Unit="MM">11.305748382137764</PinX>
+						<PinX Unit="MM">11.305748382137759</PinX>
 						<PinY Unit="MM">7.303658270563506</PinY>
 					</XForm>
 				</Shape>
@@ -1623,7 +1640,7 @@ Supports Reading, Publishing, Generating and Scheduling</Text>
 					<Text>Read/Verify
 [HTTPS]</Text>
 					<XForm>
-						<PinX Unit="MM">12.297718039508503</PinX>
+						<PinX Unit="MM">12.297718039508499</PinX>
 						<PinY Unit="MM">7.345640017675748</PinY>
 					</XForm>
 				</Shape>
@@ -1714,7 +1731,7 @@ System for community members to interact for good</Text>
 [Software System] 
 Manages Social and Other Media Interactions</Text>
 					<XForm>
-						<PinX Unit="MM">13.828740462987128</PinX>
+						<PinX Unit="MM">13.828740462987129</PinX>
 						<PinY Unit="MM">3.900007426911372</PinY>
 					</XForm>
 				</Shape>
@@ -1722,8 +1739,8 @@ Manages Social and Other Media Interactions</Text>
 					<Text>Generates
 [Event]</Text>
 					<XForm>
-						<PinX Unit="MM">12.463422820857215</PinX>
-						<PinY Unit="MM">3.882214723654251</PinY>
+						<PinX Unit="MM">12.463422820857220</PinX>
+						<PinY Unit="MM">3.882214723654252</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="138" UniqueID="{DD99F05A-EE46-46D2-A3CC-B57878798B2C}" Name="Sheet.138" NameU="Sheet.138">
@@ -1761,7 +1778,7 @@ Manages Social and Other Media Interactions</Text>
 Manages Charity and Business Relations and Donation/Redemption</Text>
 					<XForm>
 						<PinX Unit="MM">1.592881287304023</PinX>
-						<PinY Unit="MM">6.318897496286977</PinY>
+						<PinY Unit="MM">6.318897496286978</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="6" UniqueID="{ED643E1D-9598-4C0C-8230-B03ED3584E4B}" Name="Software System" NameU="Software System" Master="9">
@@ -1794,7 +1811,7 @@ System for community members to interact for good</Text>
 [Component: GOLang] 
 Telemetry Collector Pipeline in Gateway Deployment. Receives/Processes/Exports</Text>
 					<XForm>
-						<PinX Unit="MM">7.949129964843038</PinX>
+						<PinX Unit="MM">7.949129964843039</PinX>
 						<PinY Unit="MM">8.090551066201629</PinY>
 					</XForm>
 				</Shape>
@@ -1856,7 +1873,7 @@ Stores and indexes Logs. Scales horizontally</Text>
 Accepts Metrics batches, distributes to ingestor. Scales horizontally</Text>
 					<XForm>
 						<PinX Unit="MM">6.698819101975992</PinX>
-						<PinY Unit="MM">5.862008063810896</PinY>
+						<PinY Unit="MM">5.862008063810897</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="17" UniqueID="{3E28EF3C-0B0B-4FBE-B8B9-F4CF9BE61C47}" Name="Component Gray.17" NameU="Component Gray.17" Master="17">
@@ -1923,8 +1940,8 @@ Stores and indexes Traces. Scales horizontally</Text>
 [Component: technology] 
 Accepts Events batches, distributes to ingestor. Scales horizontally</Text>
 					<XForm>
-						<PinX Unit="MM">10.624753677299772</PinX>
-						<PinY Unit="MM">5.862008063810896</PinY>
+						<PinX Unit="MM">10.624753677299770</PinX>
+						<PinY Unit="MM">5.862008063810897</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="25" UniqueID="{858901B2-8657-4CBA-ADE8-98B34D40C19B}" Name="Component Gray.25" NameU="Component Gray.25" Master="17">
@@ -1932,7 +1949,7 @@ Accepts Events batches, distributes to ingestor. Scales horizontally</Text>
 [Component: technology] 
 Stores and indexes Events. Scales horizontally</Text>
 					<XForm>
-						<PinX Unit="MM">10.635827112919573</PinX>
+						<PinX Unit="MM">10.635827112919570</PinX>
 						<PinY Unit="MM">3.893504058339105</PinY>
 					</XForm>
 				</Shape>
@@ -1965,7 +1982,7 @@ Stores and indexes Events. Scales horizontally</Text>
 [mTLS]</Text>
 					<XForm>
 						<PinX Unit="MM">8.301918041827907</PinX>
-						<PinY Unit="MM">7.011727319280586</PinY>
+						<PinY Unit="MM">7.011727319280587</PinY>
 					</XForm>
 				</Shape>
 				<Shape ID="34" UniqueID="{1DF98FE1-0251-4533-A8E3-ACB9CE46F5A3}" Name="Relationship.34" NameU="Relationship.34" Master="10">
@@ -1974,6 +1991,294 @@ Stores and indexes Events. Scales horizontally</Text>
 					<XForm>
 						<PinX Unit="MM">9.263780339732671</PinX>
 						<PinY Unit="MM">6.995570901423313</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="12" Name="Containers - Community Connect Change System" NameU="Containers - Community Connect Change System">
+			<PageProps>
+				<PageScale Unit="MM">1.000000000000000</PageScale>
+				<DrawingScale Unit="MM">1.000000000000000</DrawingScale>
+			</PageProps>
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="2" UniqueID="{4E33C609-9A46-42E7-B1CB-5889058DE697}" Name="Relationship" NameU="Relationship" Master="10">
+					<Text>Interactions Workflow
+[HTTPS]</Text>
+					<XForm>
+						<PinX Unit="MM">5.262855623129149</PinX>
+						<PinY Unit="MM">7.008858152627902</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{81217C24-674E-44E4-BA15-8D92A4B634E1}" Name="Relationship.3" NameU="Relationship.3" Master="10">
+					<Text>Interactions Workflow
+[HTTPS]</Text>
+					<XForm>
+						<PinX Unit="MM">9.480212340044488</PinX>
+						<PinY Unit="MM">7.009301634131857</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{5C236DED-4318-4284-9C56-6A7A4E2CCED5}" Name="Software System.10" NameU="Software System.10" Master="9">
+					<Text>AnalyticsAndReporting
+[Software System] 
+Interaction and Operational data management/analytics/reporting</Text>
+					<XForm>
+						<PinX Unit="MM">1.510397322216045</PinX>
+						<PinY Unit="MM">4.599217755158525</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{936F9F7A-3FE6-4249-B4B6-2843FC03C8BC}" Name="Relationship.11" NameU="Relationship.11" Master="10">
+					<Text>Pushes Telemetry
+[mTLS]</Text>
+					<XForm>
+						<PinX Unit="MM">4.287401670177445</PinX>
+						<PinY Unit="MM">3.683877924137986</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{B08590C8-75CD-4376-B800-1115CF369269}" Name="Person" NameU="User" Master="8">
+					<Text>Civilian
+[Member]
+
+A non-police officer community member</Text>
+					<XForm>
+						<PinX Unit="MM">4.744094368569872</PinX>
+						<PinY Unit="MM">8.417322586099935</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{7DF00E94-B336-44EA-B057-9BBF078AF9EB}" Name="Person.14" NameU="User.14" Master="8">
+					<Text>Officer
+[Member]
+
+Police Officer community member</Text>
+					<XForm>
+						<PinX Unit="MM">10.285433101151121</PinX>
+						<PinY Unit="MM">8.417322586099935</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{FFAF82A5-03D2-409E-A930-E9C1A5613D9A}" Name="Sheet.8" NameU="Sheet.8">
+					<Text>[System Context] CommunityConnectChange System</Text>
+					<XForm>
+						<PinX Unit="MM">2.226377764350284</PinX>
+						<PinY Unit="MM">0.543307070571464</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{824CFDB4-4929-4A6B-8EA2-BAB88CBE3938}" Name="Software System Gray" NameU="Software System Gray" Master="12">
+					<Text>Geographic Information and Maps Provider
+[Software System] 
+External system providing GIS capabilities</Text>
+					<XForm>
+						<PinX Unit="MM">11.958661086006030</PinX>
+						<PinY Unit="MM">4.233267760375815</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{7F0A1C80-9491-4669-B33C-851FF7555870}" Name="Relationship.19" NameU="Relationship.19" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">9.725393578003864</PinX>
+						<PinY Unit="MM">3.510767340127986</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{A8B98A7F-8DC9-4F1C-90ED-90E9A8A2E428}" Name="Software System.15" NameU="Software System.15" Master="9">
+					<Text>OrganizationalIncentives
+[Software System] 
+Manages Charity and Business Relations and Donation/Redemption</Text>
+					<XForm>
+						<PinX Unit="MM">1.498661700961232</PinX>
+						<PinY Unit="MM">2.018850119822929</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{5A2662A0-F328-4FB9-9955-BB7A0BC76819}" Name="Relationship.22" NameU="Relationship.22" Master="10">
+					<Text>Records Points
+[Event]</Text>
+					<XForm>
+						<PinX Unit="MM">4.287401667037104</PinX>
+						<PinY Unit="MM">2.353558618506053</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{ED8E1556-FC88-4832-891C-EAFE69ED4D76}" Name="Container Boundary" NameU="Container Boundary" Master="13">
+					<Text>CommunityConnectChange 
+[Container]</Text>
+					<XForm>
+						<PinX Unit="MM">7.057086405792393</PinX>
+						<PinY Unit="MM">4.145669352351437</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{0A2530DE-D5C5-42A6-B454-2B0CD6E83DB2}" Name="Web browser" NameU="Container, Mobile App" Master="16">
+					<XForm>
+						<PinX Unit="MM">5.659448770354381</PinX>
+						<PinY Unit="MM">5.932086636798269</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{1D2B1422-84D9-461D-8A00-543D5A0B13E3}" Name="Sheet.23" NameU="Sheet.23">
+					<Text>HeyBlue! Community Web Application
+
+Enables Interaction and Redempion</Text>
+					<XForm>
+						<PinX Unit="MM">5.659448770354381</PinX>
+						<PinY Unit="MM">5.932086636798269</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{E2F1D357-4A1A-4AB2-9D15-311671EB94B4}" Name="Mobile App" NameU="Mobile App" Master="20">
+					<XForm>
+						<PinX Unit="MM">8.864173296864049</PinX>
+						<PinY Unit="MM">5.932086636798269</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="29" UniqueID="{27DF7233-4F72-4A6A-A7E0-4C809AA7D3CB}" Name="Sheet.29" NameU="Sheet.29">
+					<Text>HeyBue! Community Mobile Application
+
+Enables Interaction and Redempion</Text>
+					<XForm>
+						<PinX Unit="MM">8.864173296864049</PinX>
+						<PinY Unit="MM">5.932086636798269</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{C5D1BBB4-E49F-4394-914C-3C65C6C426B6}" Name="Relationship.31" NameU="Relationship.31" Master="10">
+					<Text>Interactions Workflow
+[HTTPS]</Text>
+					<XForm>
+						<PinX Unit="MM">6.778138054245019</PinX>
+						<PinY Unit="MM">7.190385292405207</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="32" UniqueID="{4FBAA415-3F98-4B46-A872-D92FC7C293FB}" Name="Relationship.32" NameU="Relationship.32" Master="10">
+					<Text>Interactions Workflow
+[HTTPS]</Text>
+					<XForm>
+						<PinX Unit="MM">7.972440889668265</PinX>
+						<PinY Unit="MM">7.174704586690950</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="33" UniqueID="{A48DAFEB-209D-47A2-A7EF-8389216CAD2E}" Name="Container" NameU="Container" Master="15">
+					<Text>Membership
+
+
+Registration, Profile, Settings (e.g. location services)</Text>
+					<XForm>
+						<PinX Unit="MM">5.082677148025636</PinX>
+						<PinY Unit="MM">4.238976345711157</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{320F054B-5108-4E6B-9D51-B33CE97D75D5}" Name="Container.36" NameU="Container.36" Master="15">
+					<Text>Notifications
+
+
+Handles Notifications to Community Members</Text>
+					<XForm>
+						<PinX Unit="MM">9.468995943478355</PinX>
+						<PinY Unit="MM">4.350738356666067</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="37" UniqueID="{69FF00FE-2B64-431F-AA94-2DBD7F7A469C}" Name="Container.37" NameU="Container.37" Master="15">
+					<Text>ConnectionManager
+
+Maps Interop, Proximity Detection, Interaction Workflow</Text>
+					<XForm>
+						<PinX Unit="MM">7.246063153003634</PinX>
+						<PinY Unit="MM">2.708661337341794</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{F91E6829-7859-42D0-BC42-1EBB8D60C0AB}" Name="Relationship.38" NameU="Relationship.38" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">8.553627596027773</PinX>
+						<PinY Unit="MM">3.674557172058844</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="39" UniqueID="{442EE9A6-220B-4BA7-888B-3B2C771D16D0}" Name="Relationship.39" NameU="Relationship.39" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">9.189049270606841</PinX>
+						<PinY Unit="MM">5.082677202131294</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="40" UniqueID="{030FA471-1793-4E44-B639-AD8FF9AEBC22}" Name="Relationship.40" NameU="Relationship.40" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">7.633366116550712</PinX>
+						<PinY Unit="MM">5.088997743162928</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="41" UniqueID="{B0DBA8E0-FA3B-4756-9FBC-F8517406963B}" Name="Relationship.41" NameU="Relationship.41" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">6.390029355596258</PinX>
+						<PinY Unit="MM">4.421259800572145</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="42" UniqueID="{39DAD669-BB1E-413E-A862-8BC494106003}" Name="Relationship.42" NameU="Relationship.42" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">8.098350167520021</PinX>
+						<PinY Unit="MM">4.406496021472754</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="43" UniqueID="{59EC2B81-FF3A-4917-85BC-61E1E6A35B01}" Name="Relationship.43" NameU="Relationship.43" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">5.357684742904912</PinX>
+						<PinY Unit="MM">5.046259802440979</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="44" UniqueID="{57F0B17E-D22C-4BE6-8359-FFA5EE315ED2}" Name="Relationship.44" NameU="Relationship.44" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">6.889763700932855</PinX>
+						<PinY Unit="MM">5.048073253175200</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="45" UniqueID="{0B82F7CE-B9F5-496B-91B3-9AE1DF01E16E}" Name="Relationship.45" NameU="Relationship.45" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">5.987102694837251</PinX>
+						<PinY Unit="MM">3.599212574912168</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{FF8C4C12-06E4-4673-AD32-A29F257E9C5B}" Name="Software System.46" NameU="Software System.46" Master="9">
+					<Text>MediaPositivity
+[Software System] 
+Manages Social and Other Media Interactions</Text>
+					<XForm>
+						<PinX Unit="MM">12.231652876038700</PinX>
+						<PinY Unit="MM">2.097590274978214</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="47" UniqueID="{C9C528A2-34C7-446E-BEA1-172F9396E9CA}" Name="Relationship.47" NameU="Relationship.47" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">9.823818771947970</PinX>
+						<PinY Unit="MM">2.392712382034843</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="104" UniqueID="{1B86E407-75F5-4186-9B56-E6402FE34357}" Name="Software System.104" NameU="Software System.104" Master="9">
+					<Text>MediaPositivity
+[Software System] 
+Manages Social and Other Media Interactions</Text>
+					<XForm>
+						<PinX Unit="MM">1.510397322216045</PinX>
+						<PinY Unit="MM">3.313141404929912</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="105" UniqueID="{539CE280-3091-4A6A-8E08-7667E0BBE0DE}" Name="Relationship.105" NameU="Relationship.105" Master="10">
+					<Text>Uses
+[technology]</Text>
+					<XForm>
+						<PinX Unit="MM">4.287401670177445</PinX>
+						<PinY Unit="MM">3.020473766076603</PinY>
 					</XForm>
 				</Shape>
 			</Shapes>
