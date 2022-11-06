@@ -21,11 +21,11 @@ We must at all points consider ways to reduce cost and increase engagement.
 
 ## Decision Outcome
 
-Given the above problem statement, the decision is to open source Hey Blue! itself. This will direclty contribute to both Affordability and improved Usability/Engagement
+Given the above problem statement, the decision is to open source Hey Blue! itself. This will directly contribute to both Affordability and improved Usability/Engagement
 
 ### Consequences
 
-- What parts of Hey Blue! to open source needs to be considered. If the areas to open source are to be constrained, then a superceeding ADR will be opened to specify what will and will not be open sourced.
+- What parts of Hey Blue! to open source needs to be considered. If the areas to open source are to be constrained, then a superseding ADR will be opened to specify what will and will not be open sourced.
 - An engagement model for outside contributors must be defined and enforced. This will take some time upfront and will require work to moderate on an ongoing basis. It is possible that this may require a dedicated Developer Advocate depending on what all is open-sourced and the degree of engagement.
 - Documentation for onboarding developers must be of higher quality as there will be contributors that don't have the same 1:1 onboarding experience that internal developers do.
 
