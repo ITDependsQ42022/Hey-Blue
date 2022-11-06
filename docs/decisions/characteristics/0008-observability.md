@@ -51,13 +51,12 @@ Because of the documented problem statement and drivers, Observability is a core
 
 ## Fitness Functions
 
-- For requirements driven drivers, automated functional tests tha verify logs/merics/traces are captures as expected for given use cases
+- For requirements driven drivers, automated functional tests that verify logs/merics/traces are captures as expected for given use cases
 - For associated architectural characteristics drivers, capability to write and automate the required fitness functions serves as verification
-- Related to the elemeents noted under architectural styles, the trend of SRE/Incident metrics such as the following can serve as a proxy
+- Related to the elements noted under architectural styles, the trend of SRE/Incident metrics such as the following can serve as a proxy
   -- Mean time to Detect
   -- Mean time to Acknowledge
   -- Mean time to Analysis (includes Triage/Isolate/Diagnose)
-- If an ideal stat of Observability drivng high value insights and downstream automation is achieved (potentially including AIOps and achieving autonomic/self-healing systems), then Mean Time to Repair/Resolve/Recover may even be considered as proxies in some scenarios
 
 ## Pros and Cons of the Options
 
