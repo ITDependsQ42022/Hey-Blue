@@ -25,8 +25,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
 
 ### [Decisions](docs/decisions/README.md)
 
-- [Characteristics](docs/decisions/characteristics/)
-   -   NFR ADRs
+- [Characteristics](docs/decisions/characteristics/)  
 - [Data](docs/decisions/data)
 - [Our principles](docs/decisions/principles/0002-opensource-heyblue.md)
 - [Technology Decisions](docs/decisions/ADR001_TechnologyDecisions.md)
