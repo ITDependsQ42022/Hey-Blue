@@ -29,7 +29,7 @@ Chosen option: "HeyBlue should delegate & launch these external sites and let th
 * Good, because it gives idependence to Storefronts/Municipalities to showcase their own products & Functionalities
 * Good, because HeyBlue does not bear the cost of hosting affiliate Functionalities
 * Bad, because exteral site UI's are not consistent with HeyBlue Look & Feel 
-* … <!-- numbers of consequences can vary -->
+
 
 ## Pros and Cons of the Options
 
