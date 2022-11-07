@@ -6,4 +6,4 @@ This repository will contain the artefacts produced by the "It Depends" team for
 
 1. Requirements
 
-- [x] [Requirements and Goals] (Requirements/Requirements_And_Goals.md)
+- [x]  [Requirements and Goals] (Requirements/Requirements_And_Goals.md)
