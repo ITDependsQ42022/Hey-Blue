@@ -12,6 +12,8 @@ This repository will contain the artefacts produced by the "It Depends" team for
 
 ## Structure Layouts
 
-1. Requirements
+### [Requirements](Requirements)
 
-- [x]  [Requirements and Goals] (Requirements/Requirements_And_Goals.md)
+- [Requirements and Goals](Requirements/Requirements_And_Goals.md)
+- [Non Functional Requirements](Requirements/Non_Functional_Requirements.md)
+- [User Stories](Requirements/UserStories.md)
