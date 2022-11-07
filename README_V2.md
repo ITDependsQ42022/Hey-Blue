@@ -32,4 +32,4 @@ This repository will contain the artefacts produced by the "It Depends" team for
 - [Technology Decisions](docs/decisions/ADR001_TechnologyDecisions.md)
 
 
-### [Solutions](solution/README.md)
+### [Solution](solution/README.md)
