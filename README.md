@@ -8,6 +8,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
 - Kavya Shivakumar
 - Prashant Jasani
 - Susmita Kunishetty
+- Uma Kapoor
 
 
 ## Structure Layouts
