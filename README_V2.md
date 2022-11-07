@@ -23,3 +23,10 @@ This repository will contain the artefacts produced by the "It Depends" team for
 - [Context and Vision](Vision%20and%20Context/context%20and%20vision.png) 
 - [Evolutionary Considerations](Vision%20and%20Context/Evolutionary%20Considerations.md)
 
+### [Decisions](docs/decisions)
+
+- [Characteristics](docs/decisions/characteristics/)
+   -   NFR ADRs
+- [Data](docs/decisions/data)
+- [Our principles](docs/decisions/principles/0002-opensource-heyblue.md)
+- [Technology Decisions)(docs/decisions/ADR001_TechnologyDecisions.md)
