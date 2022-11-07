@@ -10,7 +10,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
 - Susmita Kunishetty
 
 
-## Table of Contents
+## Structure Layouts
 
 1. Requirements
 
