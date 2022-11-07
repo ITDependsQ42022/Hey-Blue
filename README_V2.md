@@ -18,7 +18,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
 - [Non Functional Requirements](Requirements/Non_Functional_Requirements.md)
 - [User Stories](Requirements/UserStories.md)
 
-### [Vision and Context](Vision and Context)
+### [Vision and Context](Vision%20and%20Context)
 
 - [Context and Vision](Vision%20and%20Context/context%20and%20vision.png) 
 - [Evolutionary Considerations](Vision%20and%20Context/Evolutionary%20Considerations.md)
