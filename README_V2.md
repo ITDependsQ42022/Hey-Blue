@@ -29,4 +29,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
    -   NFR ADRs
 - [Data](docs/decisions/data)
 - [Our principles](docs/decisions/principles/0002-opensource-heyblue.md)
-- [Technology Decisions)(docs/decisions/ADR001_TechnologyDecisions.md)
+- [Technology Decisions](docs/decisions/ADR001_TechnologyDecisions.md)
+
+
+### [Solutions](solution/README.md)
