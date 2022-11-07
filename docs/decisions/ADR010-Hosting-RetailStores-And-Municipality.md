@@ -12,13 +12,6 @@ informed: {list everyone who is kept up-to-date on progress; and with whom there
 
 HeyBlue App should host Retail Store & Municipality sites with their catalogs of merchandise, so that HeyBlue Members can select Merchandise and redeem points towards purchases. Members can also visit Municipality pages within HeyBlueApp and use their points towards their fines/Penalties. What is the best way for HeyBlue App to integrate with these external Entities?
 
-<!-- This is an optional element. Feel free to remove. -->
-## Decision Drivers
-
-* Focus on HeyBlue's Value : Create Positive Interation within the Community
-* Keep the HeyBlue App Simple to Integrate and extensible
-* … <!-- numbers of drivers can vary -->
-
 ## Considered Options
 
 * Should HeyBlue delegate & launch these external sites, allowing the sites to manage the shopping and fee/penalty payments thenselves
@@ -60,11 +53,3 @@ Chosen option: "HeyBlue should delegate & launch these external sites and let th
 * Bad, because upload/maintenance/shipping of catalogued products would have to be understood/maintained. 
 * Bad, because Cost of creating/maintaining this may outweigh the value of this approach ( Not verified yet )
 
-<!-- This is an optional element. Feel free to remove. -->
-## More Information
-
-{You might want to provide additional evidence/confidence for the decision outcome here and/or
- document the team agreement on the decision and/or
- define when this decision when and how the decision should be realized and if/when it should be re-visited and/or
- how the decision is validated.
- Links to other decisions and resources might here appear as well.}
