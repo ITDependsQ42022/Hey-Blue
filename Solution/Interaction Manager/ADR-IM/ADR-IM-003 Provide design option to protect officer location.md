@@ -13,11 +13,11 @@ The design options
 
 # Design option 1 member control
 In this option, the officers cannot find the community members, the members control the interaction
-![](./member control.jpg)
+![](./member_control.jpg)
 
 # Design option 2 officer control
 In this option, the members cannot find the officers, the officers control the interaction
-![](./officer control.jpg)
+![](./officer_control.jpg)
 
 ## Decision
 The recommendation is design option 2 officer controlled
