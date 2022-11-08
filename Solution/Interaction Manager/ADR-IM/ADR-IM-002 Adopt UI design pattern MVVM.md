@@ -12,7 +12,7 @@ There are several established options for the design and how these components wo
 
 Following the Event-Driven Serverless and Extendible ADRs, the selected pattern is the MVVM which utilizes event notification and model view binding.
 
-![image info](./mvvm.jpg)
+![](./mvvm.jpg)
 
 Pros of using this pattern
 - [x] Design is decoupled, can easily replace any component

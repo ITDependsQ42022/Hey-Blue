@@ -11,23 +11,25 @@ As such the profile manager will need to identify the users as a member or an of
 ## Decision Drivers
 There are a number of options for the map display as described below:
 
-<table class="adr">
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+<table>
   <tr>
-    <td>![image info](./radar1.png)</td>
-	<td>![image info](./radar2.png)</td>
-	<td>![image info](./radar3.png)</td>
+    <td>![](./radar1.png)</td>
+	<td>![](./radar2.png)</td>
+	<td>![](./radar3.png)</td>
   </tr>
 </table>​​​
-
-<style>
-.tab .adr {border: none;}
-</style>
 
 ## Decision
 The recommendation is to locate the citizens for the reason that any tracking of police officers is inadvisable.
 The decision is to use a radar image over a precise map:
 
-![image info](./radar2.png)
+![](./radar2.png)
 
 ## Consequences
 A consequence of the decision is a change to requirements to track citizens over police officers
