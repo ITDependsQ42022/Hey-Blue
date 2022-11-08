@@ -28,6 +28,6 @@ Cons of using this pattern
 ## Decision
 The interaction manager will follow the MVVM, Model-View-ViewModel design pattern
 
-### Consequences
+## Consequences
 An event notification and management system will need to be built and maintained.
 Testing and regression will need to incorporate asynchronous changes, which is more complex than a straight forward method call.
