@@ -11,7 +11,10 @@ As such the profile manager will need to identify the users as a member or an of
 ## Decision Drivers
 There are a number of options for the map display as described below:
 
-![](./radar1.png) ![](./radar2.png) ![](./radar3.png)                                                                                                                                              
+ * Show either citizens or officers 
+ * Show either a map or a proximity radar
+
+![](./radar1.png) ![](./radar2.png) ![](./radar3.png) ![](./radar4.png)                                                                                                                                                 
 
 ## Decision
 The recommendation is to locate the citizens for the reason that any tracking of police officers is inadvisable.
