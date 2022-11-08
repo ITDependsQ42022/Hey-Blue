@@ -20,5 +20,5 @@ The container diagram shows the next level down and lead into the detailed desig
 ## Detailed Design
 The detailed system flows are captured from both an application and data perspective:
 
-![Interaction Management Data Model](./Data Model.jpg)
-![Interaction Management Sequence Diagram](./Sequence Diagram.jpg)
+![Interaction Management Data Model](./Data%20Model.jpg)
+![Interaction Management Sequence Diagram](./Sequence%20Diagram.jpg)
