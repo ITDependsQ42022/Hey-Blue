@@ -12,9 +12,11 @@ As such the profile manager will need to identify the users as a member or an of
 The design options
 
 # Design option 1 member control
+In this option, the officers cannot find the community members, the members control the interaction
 ![](./member control.jpg)
 
 # Design option 2 officer control
+In this option, the members cannot find the officers, the officers control the interaction
 ![](./officer control.jpg)
 
 ## Decision
