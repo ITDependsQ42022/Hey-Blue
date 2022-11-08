@@ -3,6 +3,7 @@
 This repository will contain the artefacts produced by the "It Depends" team for the Autumn 2022 session of O'Reilly Architecture Katas. The project this sesion is to create a proposed architecture for "Hey Blue!", a system to facilitate moments of meaningful connection between police officers and members of their community.
 
 ## Members
+
 - Shari Lines
 - Miguel Gasca
 - Kavya Shivakumar
@@ -10,27 +11,29 @@ This repository will contain the artefacts produced by the "It Depends" team for
 - Susmita Kunishetty
 - Uma Kapoor
 
-
 ## Structure Layouts
 
 ### [Requirements](Requirements)
+
+The directory linked to contains all artefacts related to functional and non-functional requiremens, as well as user story diagrams derived from the 4 processes documented in the original requirements.
 
 - [Requirements and Goals](Requirements/Requirements_And_Goals.md)
 - [Non Functional Requirements](Requirements/Non_Functional_Requirements.md)
 - [User Stories](Requirements/UserStories.md)
 
-### [Vision and Context](Vision%20and%20Context)
+### [Architectural Vision](Vision%20and%20Context)
 
-- [Context and Vision](Vision%20and%20Context/context%20and%20vision.png) 
-- [Evolutionary Considerations](Vision%20and%20Context/Evolutionary%20Considerations.md)
-- [Volummetric Analysis](Vision%20and%20Context/Volumetric.md)
+- [Vision](Vision%20and%20Context/context%20and%20vision.png) is an abstract diagram illustrating the overall vision of Hey Blue!.
+- [Evolutionary Considerations](Vision%20and%20Context/Evolutionary%20Considerations.md) takes note of potential directions of evoluion of Hey Blue! regarding Usability and scope of positive interactions.
+- [Volummetric Analysis](Vision%20and%20Context/Volumetric.md) has some napkin calculations feeding into throughput and scale requirements of Hey Blue!
 
 ### [Decisions](docs/decisions/README.md)
 
-- [Characteristics](docs/decisions/characteristics/)  
+This contains all recorded decisions made during our process. Starting wih the [first one](./docs/decisions/0000-use-markdown-any-decision-records.md) to adopt MADR format and guidelines.
+
+- [Characteristics](docs/decisions/characteristics/)
 - [Data](docs/decisions/data)
 - [Our principles](docs/decisions/principles/0002-opensource-heyblue.md)
 - [Technology Decisions](docs/decisions/ADR001_TechnologyDecisions.md)
-
 
 ### [Solution](Solution/README.md)
