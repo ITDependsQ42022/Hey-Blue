@@ -34,8 +34,8 @@ General information about architectural decision records is available at <https:
 
 The specific ADRs made during the first pass system design of the Software System *Interaction Manager* are:
 
-- [ADR-IM-001 We will store minimal PII](../../Solution/Interaction%20Manager/ADR-IM/ADR-IM-001%20We%20will%20store%20minimal%20PII)
-- [ADR-IM-002 Adopt UI design pattern MVVM](../../Solution/Interaction%20Manager/ADR-IM/ADR-IM/ADR-IM-002%20Adopt%20UI%20design%20pattern%20MVVM.md)
+- [ADR-IM-001 We will store minimal PII](../../Solution/Interaction%20Manager/ADR-IM/ADR-IM-001%20We%20will%20store%20minimal%20PII.md)
+- [ADR-IM-002 Adopt UI design pattern MVVM](../../Solution/Interaction%20Manager/ADR-IM/ADR-IM-002%20Adopt%20UI%20design%20pattern%20MVVM.md)
 - [ADR-IM-003 Provide design option to protect office location](../../Solution/Interaction%20Manager/ADR-IM/ADR-IM-003%20Provide%20design%20option%20to%20protect%20officer%20location.md)
 - [ADR-IM-004 Provide radar for local area](../../Solution/Interaction%20Manager/ADR-IM/ADR-IM-004%20Provide%20radar%20for%20local%20area.md)
 
