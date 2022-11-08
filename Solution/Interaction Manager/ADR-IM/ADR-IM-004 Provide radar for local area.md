@@ -11,16 +11,7 @@ As such the profile manager will need to identify the users as a member or an of
 ## Decision Drivers
 There are a number of options for the map display as described below:
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-</style>
-
-| ![](./radar1.png) | ![](./radar2.png) | ![](./radar3.png) |                                                                                                                                                  
+![](./radar1.png) ![](./radar2.png) ![](./radar3.png)                                                                                                                                              
 
 ## Decision
 The recommendation is to locate the citizens for the reason that any tracking of police officers is inadvisable.
