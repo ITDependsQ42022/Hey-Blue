@@ -1,5 +1,5 @@
 status: draft  
-date: 2022-11-08 
+date: 2022-11-08
 deciders: Shari
 
 ## Context and Problem Statement
@@ -30,6 +30,6 @@ As a consequence of zero trust, the information persisted and not persisted is a
 ## Decision
 The decision is to not perist member or officer PII, or information required to locate police officers
 
-### Consequences
+## Consequences
 A critical consequence is a change in requirements.  Officer locations are a requirement, however, pushing back on the requirements is advisable for the protection of the officers and discouraging criminal activities.
 
