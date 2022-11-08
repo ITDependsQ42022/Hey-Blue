@@ -27,7 +27,7 @@ The directory linked to contains all artefacts related to functional and non-fun
 - [Evolutionary Considerations](Vision%20and%20Context/Evolutionary%20Considerations.md) takes note of potential directions of evoluion of Hey Blue! regarding Usability and scope of positive interactions.
 - [Volummetric Analysis](Vision%20and%20Context/Volumetric.md) has some napkin calculations feeding into throughput and scale requirements of Hey Blue!
 
-### [Proopsed Solution](Solution/README.md)
+### [Proposed Solution](Solution/README.md)
 
 ### [Decisions](docs/decisions/README.md)
 
