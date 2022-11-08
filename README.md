@@ -27,13 +27,12 @@ The directory linked to contains all artefacts related to functional and non-fun
 - [Evolutionary Considerations](Vision%20and%20Context/Evolutionary%20Considerations.md) takes note of potential directions of evoluion of Hey Blue! regarding Usability and scope of positive interactions.
 - [Volummetric Analysis](Vision%20and%20Context/Volumetric.md) has some napkin calculations feeding into throughput and scale requirements of Hey Blue!
 
+### [Proopsed Solution](Solution/README.md)
+
 ### [Decisions](docs/decisions/README.md)
 
 This contains all recorded decisions made during our process. Starting wih the [first one](./docs/decisions/0000-use-markdown-any-decision-records.md) to adopt MADR format and guidelines.
 
-- [Characteristics](docs/decisions/characteristics/)
-- [Data](docs/decisions/data)
-- [Our principles](docs/decisions/principles/0002-opensource-heyblue.md)
-- [Technology Decisions](docs/decisions/ADR001_TechnologyDecisions.md)
-
-### [Solution](Solution/README.md)
+- [Architectural Characteristics](docs/decisions/characteristics/)
+- [Design principles](docs/decisions/principles/)
+- [Structural Decisions](docs/decisions/structure/) including Architectural Style ADR
