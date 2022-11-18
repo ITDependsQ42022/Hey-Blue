@@ -19,11 +19,11 @@ The directory linked to contains all artefacts related to functional and non-fun
 
 - [Requirements and Goals](Requirements/Requirements_And_Goals.md)
 - [Non Functional Requirements](Requirements/Non_Functional_Requirements.md)
-- [User Stories](Requirements/UserStories.md)
+- [User Stories](Requirements/UserStories)
 
 ### [Architectural Vision](Vision%20and%20Context)
 
-- [Vision](Vision%20and%20Context/context%20and%20vision.png) is an abstract diagram illustrating the overall vision of Hey Blue!.
+- [Vision](Vision%20and%20Context/context%20and%20vision.jpg) is an abstract diagram illustrating the overall vision of Hey Blue!.
 - [Evolutionary Considerations](Vision%20and%20Context/Evolutionary%20Considerations.md) takes note of potential directions of evoluion of Hey Blue! regarding Usability and scope of positive interactions.
 - [Volummetric Analysis](Vision%20and%20Context/Volumetric.md) has some napkin calculations feeding into throughput and scale requirements of Hey Blue!
 
