@@ -1,9 +1,7 @@
----
-# These are optional elements. Feel free to remove any of them.
-status: accepted 
-date: 2022-11-5
-deciders: Shari, Uma, Miguel
----
+status: accepted
+date: 2022-11-04
+deciders: Kavya, Susmitha, Miguel, Shari
+
 # Launch Retail Stores And Municipality from Hey Blue App, as external Independent Sites
 
 ## Context and Problem Statement
