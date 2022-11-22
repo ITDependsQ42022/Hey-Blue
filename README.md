@@ -47,3 +47,12 @@ This contains all recorded decisions made during our process. Starting with the 
    - [0008-Observability](docs/decisions/characteristics/0008-observability.md)
    - [0009-Availability](docs/decisions/characteristics/0009-availability.md)
 - [Structural Decisions](docs/decisions/structure/) including Architectural Style ADR
+
+## Architectural Charecteristics
+
+We have identified core architectural characteristics into this worksheet based on [Architecture Characteristics Worksheet](https://www.developertoarchitect.com/downloads/architecture-characteristics-worksheet.pdf) 
+
+![ArchitecturalCharacteristics](docs/decisions/characteristics/ArchitecturalCharecteristics.PNG)
+
+
+
