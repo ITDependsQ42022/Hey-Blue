@@ -1,8 +1,9 @@
 # Hey-Blue
 
-This repository will contain the artefacts produced by the "It Depends" team for the Autumn 2022 session of O'Reilly Architecture Katas. The project this sesion is to create a proposed architecture for "Hey Blue!", a system to facilitate moments of meaningful connection between police officers and members of their community.
+This repository will contain the artefacts produced by the "It Depends" team for the Autumn 2022 session of O'Reilly Architecture Katas. The project this season is to create a proposed architecture for "Hey Blue!", a system to facilitate moments of meaningful connection between police officers and members of their community.
 
-## Members
+## About ItDepends
+We are minds of software engineers and architects who have come together across three continents to work collaberatively and produce this proposed architecture.
 
 - Shari Lines
 - Miguel Gasca
@@ -11,9 +12,10 @@ This repository will contain the artefacts produced by the "It Depends" team for
 - Susmita Kunishetty
 - Uma Kapoor
 
-## Structure Layouts
+## Goal
+To design a feasible mobile/web solution which helps community by enabling citizens and police officers to connect and earn points which can be redeemed in charities or retail store. 
 
-### [Requirements](Requirements)
+## [Requirements](Requirements)
 
 The directory linked to contains all artefacts related to functional and non-functional requiremens, as well as user story diagrams derived from the 4 processes documented in the original requirements.
 
