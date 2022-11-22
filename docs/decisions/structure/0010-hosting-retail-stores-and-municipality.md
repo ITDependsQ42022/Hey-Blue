@@ -1,5 +1,5 @@
-status: accepted
-date: 2022-11-04
+status: accepted  
+date: 2022-11-04  
 deciders: Kavya, Susmitha, Miguel, Shari
 
 # Launch Retail Stores And Municipality from Hey Blue App, as external Independent Sites
