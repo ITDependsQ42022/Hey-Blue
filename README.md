@@ -31,8 +31,17 @@ The directory linked to contains all artefacts related to functional and non-fun
 
 ### [Decisions](docs/decisions/README.md)
 
-This contains all recorded decisions made during our process. Starting wih the [first one](./docs/decisions/0000-use-markdown-any-decision-records.md) to adopt MADR format and guidelines.
+This contains all recorded decisions made during our process. Starting with the [first one](./docs/decisions/0000-use-markdown-any-decision-records.md) to adopt MADR format and guidelines.
 
 - [Architectural Characteristics](docs/decisions/characteristics/)
+   - [0003-Security](docs/decisions/characteristics/0003-security.md)
+   - [0004-Affordability](docs/decisions/characteristics/0004-affordability.md)
+   - [0005-Usability](docs/decisions/characteristics/0005-usability.md)
+   - [0006-Elasticity](docs/decisions/characteristics/0006-elasticity.md)
+   - [0007-Evolvability](docs/decisions/characteristics/0007-evolvability.md)
+   - [0008-Observability](docs/decisions/characteristics/0008-observability.md)
+   - [0009-Availability](docs/decisions/characteristics/0009-availability.md)
 - [Design principles](docs/decisions/principles/)
+   - [0001-Technology-Choices](docs/decisions/principles/0001-technology-choices.md)
+   - [0002-Opensource-HeyBlue](docs/decisions/principles/0002-opensource-heyblue.md)
 - [Structural Decisions](docs/decisions/structure/) including Architectural Style ADR
