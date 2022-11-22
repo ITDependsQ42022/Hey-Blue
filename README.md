@@ -57,6 +57,6 @@ We have identified core architectural characteristics into this worksheet based 
 ## Architectural Styles
 
 We built a worksheet based off of the one found at Developer to Architect Styles Worksheet. We considered all styles listed there except for Layered (it was least well suited from the list and has poor domain to architecture isomorphism). We added to the list Serverless and also a hybrid Event-Based-Serverless. The results of our analysis with a table constrained to our core characteristics is as follows:  
-(Detailed explaination in [0011 Architectural Styles])(docs/decisions/structure/0011-architectural-style.md)
+(Detailed explaination in [0011 Architectural Styles](docs/decisions/structure/0011-architectural-style.md))
 
 ![StyleToCharacteristicAnalysis](docs/decisions/structure/ArchitecturalStyleCharacteristicComparisons.png)
