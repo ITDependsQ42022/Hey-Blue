@@ -4,8 +4,8 @@
 
 ## System Context
 
-![Donation and Redemption System Context](./Donation%20and%20Redemption%20Context.png)
+![Donation and Redemption System Context](./Donation%20and%20Redemption%20Context.jpg)
 
 ## System Containers
 
-![Donation and Redemption System Context](./Donation%20and%20Redemption%20Containers.png)
+![Donation and Redemption System Context](./Donation%20and%20Redemption%20Containers.jpg)
