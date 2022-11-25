@@ -29,7 +29,19 @@ The directory linked to contains all artefacts related to functional and non-fun
 - [Evolutionary Considerations](Vision%20and%20Context/Evolutionary%20Considerations.md) takes note of potential directions of evoluion of Hey Blue! regarding Usability and scope of positive interactions.
 - [Volummetric Analysis](Vision%20and%20Context/Volumetric.md) has some napkin calculations feeding into throughput and scale requirements of Hey Blue!
 
-### [Proposed Solution](Solution/README.md)
+### Domain Analysis Map
+This is a domain model that fed further into our analysis. We hae used different colors to denote areas of closer conceptual relation. 
+Note: The shapes don't necessarily imply services/actions and the lines don't necessarily imply dependencies/calls/messages/events. This ismeant to be a starting point for decomposition.
+   - Interactions is larger, red and in the middle because it is the core of the system. 
+   - All Civilian/Officer core domain areas are orange. 
+   - All retail business areas are green. 
+   - All charity areas are blue. 
+   - All data/reporting/analytics is purple.
+   - Monetary domain concepts in yellow.(i.e. how does HeyBlue make money and how do they apportion part of this to go back to community building).
+   - Grey is 3rd party and white is cross-cutting.
+
+    ![Domain Analysis Map](https://user-images.githubusercontent.com/12292677/199355846-b5cb2522-c911-4d1f-b6f4-a14d25d30ac5.jpg)
+
 
 ### We have categorised our decision records in to Functional and Non Functional
  - [Non Functional Decisions Records](Non%20Functional%20Decision%20Records/README.md)
@@ -59,3 +71,6 @@ We built a worksheet based off of the one found at Developer to Architect Styles
 (Detailed explaination in [0011 Architectural Styles](Non%20Functional%20Decision%20Records/structure/0011-architectural-style.md))
 
 ![StyleToCharacteristicAnalysis](Non%20Functional%20Decision%20Records/structure/ArchitecturalStyleCharacteristicComparisons.png)
+
+
+### [Proposed Solution](Solution/README.md)
