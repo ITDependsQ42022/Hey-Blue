@@ -40,7 +40,7 @@ Note: The shapes don't necessarily imply services/actions and the lines don't ne
    - Monetary domain concepts in yellow.(i.e. how does HeyBlue make money and how do they apportion part of this to go back to community building).
    - Grey is 3rd party and white is cross-cutting.
 
-    ![Domain Analysis Map](https://user-images.githubusercontent.com/12292677/199355846-b5cb2522-c911-4d1f-b6f4-a14d25d30ac5.jpg)
+ ![Domain Analysis Map](https://user-images.githubusercontent.com/12292677/199355846-b5cb2522-c911-4d1f-b6f4-a14d25d30ac5.jpg)
 
 
 ### We have categorised our decision records in to Functional and Non Functional
