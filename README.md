@@ -74,3 +74,4 @@ We built a worksheet based off of the one found at Developer to Architect Styles
 
 
 ### [Proposed Solution](Solution/README.md)
+[Also take a look at our power point slides :) ](HeyBlue.pptx)
