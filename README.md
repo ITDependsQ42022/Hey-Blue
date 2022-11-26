@@ -12,7 +12,11 @@ This repository will contain the artefacts produced by the "It Depends" team for
 * [Architectural Characteristics](#a-characteristics)
 * [Architectural Styles](#a-styles)
 * [Proposed Architecture](#solution)
-* [Requirements](#requirements)
+     1. [Interaction Manager](#interaction-manager)
+     2. [Donation and Redemption](#donation-redemption)
+     3. [Analytics and Reporting](#analytics-reporting)
+     4. [Media Manager](#media-manager)
+
 
 <a name="about-itdepends"></a>
 ## About ItDepends
@@ -95,10 +99,15 @@ We built a worksheet based off of the one found at Developer to Architect Styles
 ## [Proposed Architecture](Solution/README.md)
 
 We have logically seperated our perspective of the architecture into 4 categories. 
-   * [Interaction Manager](Solution/Interaction%20Manager/README.md)
-   * [Donation and Redemption](Solution/Donation%20and%20Redemption/README.md)
-   * [Analytics and Reporting](Solution/Analytics%20and%20Reporting/README.md)
-   * [Media Manager](Solution/Media%20Manager/README.md)
+  <a name="interaction-manager"></a>
+   * [Interaction Manager](Solution/Interaction%20Manager/README.md) : 
+     Responsible to manage Civilian and Citizen registration and their potential interactions with each other by faciliting proximity detection, interfacing with social media and analytics.
+  <a name="donation-redemption"></a>
+  * [Donation and Redemption](Solution/Donation%20and%20Redemption/README.md) : Responsible to manage and administer Business and charities' relations along with point system and redemptions.
+   <a name="analytics-reporting"></a>
+   * [Analytics and Reporting](Solution/Analytics%20and%20Reporting/README.md) : Responsible for analytics and reporting and operational data management
+  <a name="media-manager"></a>
+  * [Media Manager](Solution/Media%20Manager/README.md) : Responsible for Social media management
 
 Each of these categories contain the following
    * Context Diagram
