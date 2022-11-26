@@ -116,4 +116,7 @@ Each of these categories contain the following
 
 <a name="references"></a>
 ## [References](Templates)
-We have maintained templates for C4, Draw.io Stencils as a common references for usage
+We have maintained templates for 
+  * C4, 
+  * Draw.io Stencils 
+  * MADR3.0 template
