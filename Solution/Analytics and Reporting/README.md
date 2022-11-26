@@ -4,8 +4,8 @@
 
 ## System Context
 
-![Analytics and Reporting System Context](./Analytics%20Reporting%20Context.png)
+![Analytics and Reporting System Context](./Analytics%20Reporting%20Context.jpg)
 
 ## System Containers
 
-![Analytics and Reporting System Context](./Analytics%20Reporting%20Containers.png)
+![Analytics and Reporting System Context](./Analytics%20Reporting%20Containers.jpg)
