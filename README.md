@@ -16,7 +16,6 @@ This repository will contain the artefacts produced by the "It Depends" team for
      2. [Donation and Redemption](#donation-redemption)
      3. [Analytics and Reporting](#analytics-reporting)
      4. [Media Manager](#media-manager)
-* [Templates](#templates)
 * [References](#references)
 
 <a name="about-itdepends"></a>
