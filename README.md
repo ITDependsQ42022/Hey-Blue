@@ -11,7 +11,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
      * [ADRs](#adrs)
 * [Architectural Characteristics](#a-characteristics)
 * [Architectural Styles](#a-styles)
-* [Requirements](#requirements)
+* [Proposed Architecture](#solution)
 * [Requirements](#requirements)
 
 <a name="about-itdepends"></a>
@@ -91,6 +91,16 @@ We built a worksheet based off of the one found at Developer to Architect Styles
 
 ![StyleToCharacteristicAnalysis](Non%20Functional%20Decision%20Records/structure/ArchitecturalStyleCharacteristicComparisons.png)
 
+<a name="solution"></a>
+## [Proposed Architecture](Solution/README.md)
 
-### [Proposed Solution](Solution/README.md)
-[Also take a look at our power point slides :) ](HeyBlue.pptx)
+We have logically seperated our perspective of the architecture into 4 categories. 
+   * [Interaction Manager](Solution/Interaction%20Manager/README.md)
+   * [Donation and Redemption](Solution/Donation%20and%20Redemption/README.md)
+   * [Analytics and Reporting](Solution/Analytics%20and%20Reporting/README.md)
+   * [Media Manager](Solution/Media%20Manager/README.md)
+
+Each of these categories contain the following
+   * Context Diagram
+   * Container Diagram
+   * Sequence Diagram
