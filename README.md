@@ -16,6 +16,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
      2. [Donation and Redemption](#donation-redemption)
      3. [Analytics and Reporting](#analytics-reporting)
      4. [Media Manager](#media-manager)
+* [Templates](#templates)
 * [References](#references)
 
 <a name="about-itdepends"></a>
@@ -113,3 +114,7 @@ Each of these categories contain the following
    * Context Diagram
    * Container Diagram
    * Sequence Diagram
+
+<a name="references"></a>
+## [References](Templates)
+We have maintained templates for C4, Draw.io Stencils as a common references for usage
