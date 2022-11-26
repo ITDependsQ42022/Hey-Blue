@@ -10,12 +10,12 @@ The *Interaction Manager* is responsible for:
  * Interfacing and sending data to analytics
  * Interfacing and sending data to social media
 
-![Interaction Management System Context](./Interaction%20Manager%20Context.png)
+![Interaction Management System Context](./Interaction%20Manager%20Context.jpg)
 
 ## System Containers
 The container diagram shows the next level down and lead into the detailed design:
 
-![Interaction Management System Context](./Interaction%20Manager%20Containers.png)
+![Interaction Management System Context](./Interaction%20Manager%20Containers.jpg)
 
 ## Detailed Design
 The detailed system flows are captured from both an application and data perspective:
