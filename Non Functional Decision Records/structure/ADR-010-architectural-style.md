@@ -35,7 +35,7 @@ The core Architectural Characteristics, along with domain to architecture isomor
 
 ## Decision Outcome
 
-Chosen option: "Event-Driven Serverless", because after analysis across performance against (particularly structural) architectural characteristics it came out just on top. Furthermore there is good domain-to-architecture isomorphism. Finally, when looking at trade-offs (captured in pros/cons) there were no critical cons to discunt it.
+Chosen option: "Event-Driven Serverless", because after analysis across performance against (particularly structural) architectural characteristics it came out just on top. Furthermore there is good domain-to-architecture isomorphism. Finally, when looking at trade-offs (captured in pros/cons) there were no critical cons to discount it.
 
 ### Consequences
 
