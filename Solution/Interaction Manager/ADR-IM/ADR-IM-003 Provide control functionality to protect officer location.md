@@ -1,5 +1,5 @@
 # ADR-IM-003 Provide design option to protect office location
-status: draft  
+status: Approved  
 date: 2022-11-08  
 deciders: Shari
 
