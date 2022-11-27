@@ -1,5 +1,5 @@
 # ADR-IM-001 We will store minimal PII
-status: draft  
+status: Approved  
 date: 2022-11-08  
 deciders: Shari
 

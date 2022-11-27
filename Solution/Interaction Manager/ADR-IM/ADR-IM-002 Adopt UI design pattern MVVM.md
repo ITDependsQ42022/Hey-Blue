@@ -1,6 +1,5 @@
 # ADR-IM-002 Adopt UI design pattern MVVM
-
-status: draft  
+status: Approved  
 date: 2022-11-04  
 deciders: Shari
 
