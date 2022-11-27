@@ -2,7 +2,7 @@ status: accepted
 date: 2022-11-08  
 deciders: Shari, Miguel, Uma
 
-# ADR-013 Provide radar for local area
+# ADR-013 Provide map design to protect officer location
 
 ## Context and Problem Statement
 Any system that tracks the locations of all police officers in an area presents an inherent risk.
