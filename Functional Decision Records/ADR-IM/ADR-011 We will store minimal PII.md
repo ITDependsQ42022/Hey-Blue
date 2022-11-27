@@ -1,7 +1,7 @@
 
 status: accepted  
 date: 2022-11-08  
-deciders: Shari, Kavya, Uma
+deciders: Shari
 
 # ADR-IM-001 We will store minimal PII
 
