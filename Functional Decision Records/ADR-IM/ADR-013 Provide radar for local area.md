@@ -1,7 +1,8 @@
-# ADR-IM-004 Provide radar for local area
-status: draft  
+status: accepted
 date: 2022-11-08  
-deciders: Shari
+deciders: Shari, Miguel, Uma
+
+# ADR-IM-013 Provide radar for local area
 
 ## Context and Problem Statement
 The interaction management system requires a member of the community and an officer to interact.
