@@ -3,7 +3,7 @@ status: accepted
 date: 2022-11-08  
 deciders: Shari
 
-# ADR-IM-011 Store minimal PII
+# ADR-011 Store minimal PII
 
 ## Context and Problem Statement
 

@@ -3,7 +3,7 @@ date: 2022-11-04
 deciders: Shari, Susmitha, Uma, Miguel
 
 
-# ADR-IM-014 Provide design option to protect office location
+# ADR-014 Provide design option to protect office location
 
 ## Context and Problem Statement
 The interaction management system requires a member of the community and an officer to interact.
