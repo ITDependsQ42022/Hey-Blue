@@ -1,6 +1,7 @@
-status: accepted
-date: 2022-11-08  
-deciders: Shari, Kavya, Susmitha
+status: accepted  
+date: 2022-11-04  
+deciders: Shari, Susmitha, Uma, Miguel
+
 
 # ADR-IM-014 Provide design option to protect office location
 
