@@ -1,9 +1,12 @@
-# ADR-IM-001 We will store minimal PII
-status: draft  
+
+status: accepted  
 date: 2022-11-08  
-deciders: Shari
+deciders: Shari, Kavya, Uma
+
+# ADR-IM-001 We will store minimal PII
 
 ## Context and Problem Statement
+
 The interaction management system requires a member of the community and an officer to interact.
 
 As such the profile manager will need to identify the users as a member or an officer.  However the privacy and identification of individuals must be protected.
