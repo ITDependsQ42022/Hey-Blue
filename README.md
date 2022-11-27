@@ -112,7 +112,13 @@ We have logically seperated our perspective of the architecture into 4 categorie
 Each of these categories contain the following
    * Context Diagram
    * Container Diagram
-   * Sequence Diagram
+   * Sequence Diagram/Data Model
+
+This is how we envisage connecting the dots top down/bottom up architecture
+
+![connecting-the-dots](https://user-images.githubusercontent.com/17231761/204140110-c1eee62d-703a-4d57-8cbf-324a6dc39cfd.png)
+
+
 
 <a name="references"></a>
 ## [References](Templates)
