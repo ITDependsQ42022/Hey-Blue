@@ -1,5 +1,6 @@
-status: proposed  
+status: accepted  
 date: 2022-11-26  
+deciders: Uma, Miguel, Shari
 
 # Data storage
 
