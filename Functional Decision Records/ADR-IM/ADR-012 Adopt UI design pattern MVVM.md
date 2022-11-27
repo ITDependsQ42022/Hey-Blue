@@ -2,7 +2,7 @@ status: accepted
 date: 2022-11-04  
 deciders: Shari
 
-# ADR-IM-012 Adopt UI design pattern MVVM
+# ADR-012 Adopt UI design pattern MVVM
 
 ## Context and Problem Statement
 The interaction management system requires a user interface (UI), a location and map model and a controller to update the location and facilitate connections.
