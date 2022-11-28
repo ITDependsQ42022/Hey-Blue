@@ -17,6 +17,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
      2. [Donation and Redemption](#donation-redemption)
      3. [Analytics and Reporting](#analytics-reporting)
      4. [Media Manager](#media-manager)
+* [Connecting the dots](#connectingdots)
 * [References](#references)
 
 <a name="about-itdepends"></a>
@@ -117,6 +118,7 @@ Each of these categories contain the following
 
 This is how we envisage connecting the dots top down/bottom up architecture
 
+<a name="connectingdots"></a>
 ![connecting-the-dots](https://user-images.githubusercontent.com/17231761/204140110-c1eee62d-703a-4d57-8cbf-324a6dc39cfd.png)
 
 
