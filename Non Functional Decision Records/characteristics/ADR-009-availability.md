@@ -10,12 +10,6 @@ Availability is a measure of the amount of uptime of a system; This is usually m
 
 Much of Hey Blue! usage will be occasional. If the system is not available when the community tries to interact, then we will lose users. For this reason, availability is a core characteristic.
 
-## Decision Drivers
-
-- {decision driver 1, e.g., a force, facing concern, …}
-- {decision driver 2, e.g., a force, facing concern, …}
-- … <!-- numbers of drivers can vary -->
-
 ## Considered Options
 
 - Repeat engagement from interaction through redemption is required by business model
