@@ -30,7 +30,7 @@ We are the minds of software engineers and architects who have come together acr
 - Miguel Gasca
 - Kavya Shivakumar
 - Prashant Jasani
-- Susmita Kunishetty
+- Susmitha Kunisetty
 - Uma Kapoor
 
 <a name="goal"></a>
