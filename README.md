@@ -116,10 +116,11 @@ Each of these categories contain the following
    * Container Diagram
    * Sequence Diagram/Data Model
 
+<a name="connectingdots"></a>
+## Connecting the dots
 This is how we envisage connecting the dots top down/bottom up architecture
 
-<a name="connectingdots"></a>
-![connecting-the-dots](https://user-images.githubusercontent.com/17231761/204140110-c1eee62d-703a-4d57-8cbf-324a6dc39cfd.png)
+![](https://user-images.githubusercontent.com/17231761/204140110-c1eee62d-703a-4d57-8cbf-324a6dc39cfd.png)
 
 
 
