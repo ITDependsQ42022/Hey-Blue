@@ -4,7 +4,7 @@
 
 ## System Context
 
-![Media Management System Context](./Media%20Context.png)
+![Media Management System Context](./Media%20Context.jpg)
 
 ## System Containers - Draft
 
