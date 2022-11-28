@@ -27,7 +27,8 @@ For Profile management/Interaction manager, Donation and Redemption referential 
 
 * Good, because the importance is given to kind of data, speed and effeciency by enabling multiple data store systems.
 * Bad, because it may not be cost effective.
-* Bad, because it requires a good understanding of variety of databases
+* Good, because seperation of concerns are very clear and well scoped.
+* Bad, because it requires a good understanding of variety of databases.
 
 
 ## Validation
