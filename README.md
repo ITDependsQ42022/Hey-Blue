@@ -44,7 +44,8 @@ The directory linked to contains all artefacts related to functional and non-fun
 - [Business Process Workflow](Requirements/Business%20Process%20Flow) : Consists of process workflows for interaction, redeeming and registering.
 - [System Requirements](Requirements/System%20Requirements)
 - [User Cases](Requirements/Use%20Cases/Use%20Cases.jpg)
-Requirements/Use%20Cases/context%20and%20vision.png
+
+
 <a name="vision"></a>
 ### [Architectural Vision](Vision%20and%20Context)
 
