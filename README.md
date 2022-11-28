@@ -39,18 +39,18 @@ To design a feasible mobile/web solution which helps community by enabling citiz
 <a name="requirements"></a>
 ## [Requirements](Requirements)
 
-The directory linked to contains all artefacts related to functional and non-functional requiremens, as well as user story diagrams derived from the 4 processes documented in the original requirements.
+The directory linked to contains all artefacts related to functional and non-functional requirements, as well as user story diagrams derived from the 4 processes documented in the original requirements.
 
-- [Requirements and Goals](Requirements/Requirements_And_Goals.md)
-- [Non Functional Requirements](Requirements/Non_Functional_Requirements.md)
-- [User Stories](Requirements/UserStories)
-
+- [Business Process Workflow](Requirements/Business%20Process%20Flow) : Consists of process workflows for interaction, redeeming and registering.
+- [System Requirements](Requirements/System%20Requirements)
+- [User Cases](Requirements/Use%20Cases/Use%20Cases.jpg)
+Requirements/Use%20Cases/context%20and%20vision.png
 <a name="vision"></a>
 ### [Architectural Vision](Vision%20and%20Context)
 
-- [Vision](Vision%20and%20Context/context%20and%20vision.jpg) is an abstract diagram illustrating the overall vision of Hey Blue!.
-- [Evolutionary Considerations](Vision%20and%20Context/Evolutionary%20Considerations.md) takes note of potential directions of evoluion of Hey Blue! regarding Usability and scope of positive interactions.
-- [Volummetric Analysis](Vision%20and%20Context/Volumetric.md) has some napkin calculations feeding into throughput and scale requirements of Hey Blue!
+- [Vision](Vision%20and%20Domain%20Model/Vision%20and%20Logical%20Architecture.jpg) is an abstract diagram illustrating the overall vision of Hey Blue!.
+- [Evolutionary Considerations](Vision%20and%20Domain%20Model/Evolutionary%20Considerations.md) takes note of potential directions of evolution of Hey Blue! regarding Usability and scope of positive interactions.
+- [Volummetric Analysis](Vision%20and%20Domain%20Model/Volumetric.md) has some napkin calculations feeding into throughput and scale requirements of Hey Blue!
 
 <a name="domain-analysis-map"></a>
 ### Domain Analysis Map
@@ -76,10 +76,10 @@ Note: The shapes don't necessarily imply services/actions and the lines don't ne
      - [Structural Decisions](Non%20Functional%20Decision%20Records/structure/) including Architectural Style ADR
 
  - Functional Decisions Records
-    - [Security Compliance](Functional%20Decision%20Records/ADR-IM/ADR-011%20We%20will%20store%20minimal%20PII.md)
+    - [Security Compliance](Functional%20Decision%20Records/ADR-IM/ADR-011%20Store%20minimal%20PII.md)
     - [UI Design Model](Functional%20Decision%20Records/ADR-IM/ADR-012%20Adopt%20UI%20design%20pattern%20MVVM.md)
-    - [Provide radar for local area](Functional%20Decision%20Records/ADR-IM/ADR-013%20Provide%20radar%20for%20local%20area.md)
-    - [protect officer location](Functional%20Decision%20Records/ADR-IM/ADR-014%20Provide%20design%20option%20to%20protect%20officer%20location.md)
+    - [Provide control functionality to protect officer location](Functional%20Decision%20Records/ADR-IM/ADR-014%20Provide%20control%20functionality%20to%20protect%20officer%20location.md)
+    - [protect officer location](Functional%20Decision%20Records/ADR-IM/ADR-013%20Provide%20map%20design%20to%20protect%20officer%20location.md)
     - [Retail store and Municipality](Functional%20Decision%20Records/ADR-015-hosting-retail-stores-and-municipality.md)
 
 <a name="a-characteristics"></a>
@@ -93,7 +93,7 @@ We have identified core architectural characteristics into this worksheet based 
 ## Architectural Styles
 
 We built a worksheet based off of the one found at Developer to Architect Styles Worksheet. We considered all styles listed there except for Layered (it was least well suited from the list and has poor domain to architecture isomorphism). We added to the list Serverless and also a hybrid Event-Based-Serverless. The results of our analysis with a table constrained to our core characteristics is as follows:  
-(Detailed explaination in [0011 Architectural Styles](Non%20Functional%20Decision%20Records/structure/0011-architectural-style.md))
+(Detailed explaination in [010 Architectural Styles](Non%20Functional%20Decision%20Records/structure/ADR-010-architectural-style.md)
 
 ![StyleToCharacteristicAnalysis](Non%20Functional%20Decision%20Records/structure/ArchitecturalStyleCharacteristicComparisons.png)
 
