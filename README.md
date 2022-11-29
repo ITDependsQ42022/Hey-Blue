@@ -57,7 +57,6 @@ An abstract diagram illustrating the overall vision of Hey Blue! is
 
 ![Vision](Vision%20and%20Domain%20Model/Vision%20and%20Logical%20Architecture.jpg)
 
-
 <a name="domain-analysis-map"></a>
 ### Domain Analysis Map
 This is a domain model that fed further into our analysis. We have used different colors to denote areas of closer conceptual relation. 
