@@ -44,15 +44,19 @@ The directory linked to above contains all artefacts related to functional requi
 
 - [Business Process Workflow](Requirements/Business%20Process%20Flow) : Consists of process workflows for interaction, redeeming and registering.
 - [System Requirements](Requirements/System%20Requirements)
-- [User Cases](Requirements/Use%20Cases/Use%20Cases.jpg)
+- [Use Cases](Requirements/Use%20Cases/Use%20Cases.jpg)
 
 
 <a name="vision"></a>
 ### [Architectural Vision](Vision%20and%20Context)
 
-- [Vision](Vision%20and%20Domain%20Model/Vision%20and%20Logical%20Architecture.jpg) is an abstract diagram illustrating the overall vision of Hey Blue!.
 - [Evolutionary Considerations](Vision%20and%20Domain%20Model/Evolutionary%20Considerations.md) takes note of potential directions of evolution of Hey Blue! regarding Usability and scope of positive interactions.
 - [Volummetric Analysis](Vision%20and%20Domain%20Model/Volumetric.md) has some napkin calculations feeding into throughput, elasticity and scale requirements of Hey Blue!
+
+An abstract diagram illustrating the overall vision of Hey Blue! is
+
+![Vision](Vision%20and%20Domain%20Model/Vision%20and%20Logical%20Architecture.jpg)
+
 
 <a name="domain-analysis-map"></a>
 ### Domain Analysis Map
