@@ -104,7 +104,7 @@ We built a worksheet based off of the one found at Developer to Architect Styles
 ![StyleToCharacteristicAnalysis](Non%20Functional%20Decision%20Records/structure/ArchitecturalStyleCharacteristicComparisons.png)
 
 <a name="solution"></a>
-## [Proposed Architecture](Solution/README.md)
+## [Solution](Solution/README.md)
 
 The proposed architecture is captured in a [system landscape diagram](Solution/README.md).  We have logically seperated our analysis of the architecture into 4 systems, and each is addressed in turn in it's own directory. 
   <a name="interaction-manager"></a>
