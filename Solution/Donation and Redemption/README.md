@@ -16,3 +16,6 @@
 ![Donation and Redemption System Context](./Redemption.jpg)
 ![Donation and Redemption System Context](./Administration.jpg)
 ![Donation and Redemption System Context](./Payment.jpg)
+
+## Data Model
+![Donation and Redemption System Context](./datamodel.jpg)
