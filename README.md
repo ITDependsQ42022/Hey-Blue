@@ -84,10 +84,11 @@ Note: The shapes don't necessarily imply services/actions and the lines don't ne
  - Functional Decisions Records
     - [Security Compliance](Functional%20Decision%20Records/ADR-IM/ADR-011%20Store%20minimal%20PII.md)
     - [UI Design Model](Functional%20Decision%20Records/ADR-IM/ADR-012%20Adopt%20UI%20design%20pattern%20MVVM.md)
-    - [Provide control functionality to protect officer location](Functional%20Decision%20Records/ADR-IM/ADR-014%20Provide%20control%20functionality%20to%20protect%20officer%20location.md)
     - [protect officer location](Functional%20Decision%20Records/ADR-IM/ADR-013%20Provide%20map%20design%20to%20protect%20officer%20location.md)
+    - [Provide control functionality to protect officer location](Functional%20Decision%20Records/ADR-IM/ADR-014%20Provide%20control%20functionality%20to%20protect%20officer%20location.md)
     - [Retail store and Municipality](Functional%20Decision%20Records/ADR-015-hosting-retail-stores-and-municipality.md)
-
+    - [Data Strorage](Functional%20Decision%20Records/ADR-016-data-storage.md)
+    
 <a name="a-characteristics"></a>
 ## Architectural Characteristics
 
@@ -124,7 +125,8 @@ Each of these systems analysis contains the following
 <a name="connectingdots"></a>
 ## Connecting the dots  
 A visual journey through understanding the breadth and depth of our proposed solution starts with the top level [use case digram](./Requirements/Use%20Cases/Use%20Cases.jpg). Here we see our four primary actors and the four core scenarios. From there you may drill down to the images which are an expansion of each individual use case, these are in the [Business Process Flow directory](./Requirements/Business%20Process%20Flow/). Zooming back out a level the [user story map](./Vision%20and%20Domain%20Model/User%20Story%20Map/User%20Story%20Map.jpg) provides a view that organizes the user journey into related user stories under activities. These distinct activities correlate 1:1 with the four systems in our [System Landscape diagram](./Solution/Hey%20Blue!%20Context.jpg). Each of those four systems has a dedicated directory under [solution](./Solution/) where we drill down from System Context to Container views. We also include sequence diagrams for primary user and/or data flows and data models at this level.
-![](https://user-images.githubusercontent.com/17231761/204140110-c1eee62d-703a-4d57-8cbf-324a6dc39cfd.png)
+
+![](https://user-images.githubusercontent.com/17231761/204835782-ee8c8965-8718-4e11-a4f5-4d7ed350abe2.JPG)
 
 <a name="characteristics_mapping"></a>
 ## Our perspective of mapping characteristics to Software system Contexts
