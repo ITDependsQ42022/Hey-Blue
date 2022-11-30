@@ -128,7 +128,7 @@ A visual journey through understanding the breadth and depth of our proposed sol
 
 <a name="characteristics_mapping"></a>
 ## Our perspective of mapping characteristics to Software system Contexts
-Using the template by Mark Richards that is available in [Architectural Characteristics Worksheet](https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf) we have identified how the characters can be mapped to our software system Contexts and here is the representation. (0 to 4 stars)
+Using the template by Mark Richards that is available in [Architectural Characteristics Worksheet](https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf) we have identified how the characters can be mapped to our software system Contexts and here is the representation. (0 to 4 stars being the most)
 
 ![image](https://user-images.githubusercontent.com/17231761/204808194-c35a8947-868f-4b23-ac82-6f93a84b7b10.png)
 
