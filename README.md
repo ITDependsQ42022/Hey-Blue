@@ -12,7 +12,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
 * [Architecture Decisions](#solution)
      1. [Architectural Characteristics](#a-characteristics)
 	 2. [Architectural Styles](#a-styles)
-	 3. [Functional ADRs](#adrs)
+	 3. [ADRs](#adrs)
 * [Solution](#solution)
      1. [Interaction Manager](#interaction-manager)
      2. [Donation and Redemption](#donation-redemption)
