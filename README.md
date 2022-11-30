@@ -134,11 +134,14 @@ Using the template by Mark Richards that is available in [Architectural Characte
 
 <a name="references"></a>
 ## [References](Templates)
-We have maintained templates for 
+* https://app.diagrams.net/
+* https://www.developertoarchitect.com/ 
+
+We have also maintained templates for 
   * C4, 
   * Draw.io Stencils 
   * MADR3.0 template
-* https://www.developertoarchitect.com/
+
 
 
 #### [Scroll to top](#topsection)
