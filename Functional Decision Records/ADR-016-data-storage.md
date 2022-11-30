@@ -14,7 +14,7 @@ to support referential integrity for profile managements
 
 * ability to aggregate analytical data to automatically update local media. 
 * ability to create aggregated comprehensive reports to show the impact on community
-* have consistent and accurate profile management management for different actors in the software system.
+* have consistent and accurate profile management for different actors in the software system.
 * store data like social media details within Hey Blue! app
 
 ## Decision Outcome
@@ -25,7 +25,7 @@ For Profile management/Interaction manager, Donation and Redemption referential 
 
 ### Consequences
 
-* Good, because the importance is given to kind of data, speed and effeciency by enabling multiple data store systems.
+* Good, because the importance is given to the kind of data, speed and effeciency by enabling multiple data store systems.
 * Bad, because it may not be cost effective.
 * Good, because seperation of concerns are very clear and well scoped.
 * Bad, because it requires a good understanding of variety of databases.
