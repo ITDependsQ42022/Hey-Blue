@@ -19,6 +19,7 @@ This repository will contain the artefacts produced by the "It Depends" team for
      3. [Analytics and Reporting](#analytics-reporting)
      4. [Media Manager](#media-manager)
 * [Connecting the dots](#connectingdots)
+* [Characteristics Mapping](#characteristics_mapping)
 * [References](#references)
 
 <a name="about-itdepends"></a>
@@ -125,7 +126,11 @@ Each of these systems analysis contains the following
 A visual journey through understanding the breadth and depth of our proposed solution starts with the top level [use case digram](./Requirements/Use%20Cases/Use%20Cases.jpg). Here we see our four primary actors and the four core scenarios. From there you may drill down to the images which are an expansion of each individual use case, these are in the [Business Process Flow directory](./Requirements/Business%20Process%20Flow/). Zooming back out a level the [user story map](./Vision%20and%20Domain%20Model/User%20Story%20Map/User%20Story%20Map.jpg) provides a view that organizes the user journey into related user stories under activities. These distinct activities correlate 1:1 with the four systems in our [System Landscape diagram](./Solution/Hey%20Blue!%20Context.jpg). Each of those four systems has a dedicated directory under [solution](./Solution/) where we drill down from System Context to Container views. We also include sequence diagrams for primary user and/or data flows and data models at this level.
 ![](https://user-images.githubusercontent.com/17231761/204140110-c1eee62d-703a-4d57-8cbf-324a6dc39cfd.png)
 
+<a name="characteristics_mapping"></a>
+## Our perspective of mapping characteristics to Software system Contexts
+Using the template by Mark Richards that is available in [Architectural Characteristics Worksheet](https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf) we have identified how the characters can be mapped to our software system Contexts and here is the representation. (0 to 4 stars)
 
+![image](https://user-images.githubusercontent.com/17231761/204808194-c35a8947-868f-4b23-ac82-6f93a84b7b10.png)
 
 <a name="references"></a>
 ## [References](Templates)
@@ -133,6 +138,7 @@ We have maintained templates for
   * C4, 
   * Draw.io Stencils 
   * MADR3.0 template
+* https://www.developertoarchitect.com/
 
 
 #### [Scroll to top](#topsection)
